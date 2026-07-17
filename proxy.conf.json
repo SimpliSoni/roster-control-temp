@@ -1,0 +1,15 @@
+{
+  "/api": {
+    "target": "https://vikiai-dev.devum.com",
+    "secure": false,
+    "changeOrigin": true,
+    "pathRewrite": {
+      "^/api": ""
+    }
+  },
+  "/devum": {
+    "target": "http://192.168.1.101:7397",
+    "secure": false,
+    "changeOrigin": true
+  }
+}

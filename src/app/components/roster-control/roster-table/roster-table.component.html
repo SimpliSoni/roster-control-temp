@@ -1,0 +1,101 @@
+<div class="roster-table-container">
+  <div class="roster-wrap">
+    <table
+      class="roster-table"
+      [class.view-month]="currentView === 'month'"
+      [class.view-week]="currentView === 'week'"
+      [class.view-day]="currentView === 'day'"
+      id="roster-main"
+    >
+      <thead>
+        <tr>
+          <th class="th-emp" scope="col">Employees</th>
+          @for (header of rosterHeaders; track header.dateStr) {
+            <th class="th-date-col" [class.today-col]="header.isToday" scope="col">
+              <div class="th-date">{{ header.dayNum }}</div>
+              <div class="th-day">{{ header.dow }}</div>
+            </th>
+          }
+        </tr>
+      </thead>
+      <tbody>
+        @for (emp of filteredEmployees; track emp.employeeId) {
+          <tr>
+            <td class="emp-cell" (click)="clickEmployee.emit(emp.employeeId)">
+              <div class="emp-info">
+                <div class="emp-name">{{ emp.name }}</div>
+                <div class="emp-id">{{ emp.employeeId }}</div>
+                <div class="emp-role">{{ emp.role }}</div>
+              </div>
+            </td>
+            @for (header of rosterHeaders; track header.dateStr) {
+              <td>
+                <div
+                  class="date-cell"
+                  [class.holiday-cell]="selectedHolidays.includes(header.dateStr)"
+                  [class.today-cell]="header.isToday"
+                >
+                  <!-- Shifts -->
+                  @for (s of rosterAssignments[emp.employeeId]?.[header.dateStr]; track $index) {
+                    <div
+                      class="shift-badge"
+                      [style.background]="
+                        s.altered ? '#FF9800' : SHIFT_DEFS[s.shiftKey]?.bg
+                      "
+                      [style.color]="s.altered ? '#fff' : SHIFT_DEFS[s.shiftKey]?.color"
+                      (click)="
+                        $event.stopPropagation();
+                        modifyShift.emit({ empId: emp.employeeId, dateStr: header.dateStr, index: $index })
+                      "
+                    >
+                      <span class="sb-name"
+                        >{{ SHIFT_DEFS[s.shiftKey]?.label
+                        }}{{ s.altered ? ' ✦' : '' }}</span
+                      >
+                      <span class="sb-time">{{ SHIFT_DEFS[s.shiftKey]?.time }}</span>
+                      <span class="sb-actions">
+                        <button
+                          class="sb-btn"
+                          (click)="
+                            $event.stopPropagation();
+                            modifyShift.emit({ empId: emp.employeeId, dateStr: header.dateStr, index: $index })
+                          "
+                          title="Edit"
+                          aria-label="Edit shift"
+                        >
+                          <i class="ti ti-pencil" aria-hidden="true"></i>
+                        </button>
+                        <button
+                          class="sb-btn"
+                          (click)="
+                            $event.stopPropagation();
+                            deleteShift.emit({ empId: emp.employeeId, dateStr: header.dateStr, index: $index })
+                          "
+                          title="Delete"
+                          aria-label="Delete shift"
+                        >
+                          <i class="ti ti-trash" aria-hidden="true"></i>
+                        </button>
+                      </span>
+                    </div>
+                  }
+                  <!-- Add button -->
+                  @if (!selectedHolidays.includes(header.dateStr)) {
+                    <div
+                      class="add-shift-btn"
+                      (click)="
+                        $event.stopPropagation(); addShift.emit({ empId: emp.employeeId, dateStr: header.dateStr })
+                      "
+                    >
+                      <i class="ti ti-plus" aria-hidden="true"></i> Add
+                    </div>
+                  }
+                </div>
+              </td>
+            }
+          </tr>
+        }
+      </tbody>
+    </table>
+  </div>
+</div>

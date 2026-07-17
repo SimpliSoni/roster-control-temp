@@ -1,0 +1,210 @@
+<div class="app">
+  <!-- MAIN -->
+  <div class="main">
+    <div class="content" id="main-content">
+      <!-- ========== ROSTER VIEW ========== -->
+      <div id="page-roster">
+        <!-- Top toolbar -->
+        <div class="toolbar-container">
+          <div class="toolbar-group">
+            <button class="btn btn-sm" (click)="prevMonth()" aria-label="Previous Period">
+              <i class="ti ti-chevron-left" aria-hidden="true"></i>
+            </button>
+            <span class="month-label">{{ monthLabel }}</span>
+            <button class="btn btn-sm" (click)="nextMonth()" aria-label="Next Period">
+              <i class="ti ti-chevron-right" aria-hidden="true"></i>
+            </button>
+            <button class="btn btn-sm" id="btn-today" (click)="goToday()">Today</button>
+            @if (isLoading) {
+              <span class="loading-indicator">
+                <i class="ti ti-loader spinner" aria-hidden="true"></i>
+                Loading...
+              </span>
+            }
+          </div>
+          <div class="toolbar-actions">
+            <!-- View Switcher -->
+            <div class="view-switcher">
+              <input
+                type="radio"
+                name="viewType"
+                id="vt-day"
+                value="day"
+                [checked]="currentView === 'day'"
+                (change)="setView('day')"
+              />
+              <label for="vt-day">Day</label>
+
+              <input
+                type="radio"
+                name="viewType"
+                id="vt-week"
+                value="week"
+                [checked]="currentView === 'week'"
+                (change)="setView('week')"
+                class="spacing-left"
+              />
+              <label for="vt-week">Week</label>
+
+              <input
+                type="radio"
+                name="viewType"
+                id="vt-month"
+                value="month"
+                [checked]="currentView === 'month'"
+                (change)="setView('month')"
+                class="spacing-left"
+              />
+              <label for="vt-month">Month</label>
+            </div>
+
+            <!-- Roster Filters -->
+            <div class="filter-group">
+              <input
+                type="radio"
+                name="rfilter"
+                id="rf-all"
+                [value]="'all'"
+                [(ngModel)]="rosterFilter"
+              />
+              <label for="rf-all">All</label>
+
+              <input
+                type="radio"
+                name="rfilter"
+                id="rf-allotted"
+                [value]="'allotted'"
+                [(ngModel)]="rosterFilter"
+                class="spacing-left"
+              />
+              <label for="rf-allotted">Allotted</label>
+
+              <input
+                type="radio"
+                name="rfilter"
+                id="rf-unallotted"
+                [value]="'unallotted'"
+                [(ngModel)]="rosterFilter"
+                class="spacing-left"
+              />
+              <label for="rf-unallotted">Unallotted</label>
+            </div>
+
+            <!-- Search -->
+            <input
+              type="text"
+              placeholder="Search employee..."
+              id="roster-search"
+              class="roster-search-input"
+              [(ngModel)]="rosterSearch"
+            />
+            <button class="btn btn-primary btn-sm" (click)="isBulkAddOpen = true" aria-label="Open Bulk Add Shifts dialogue">
+              <i class="ti ti-users-plus" aria-hidden="true"></i> Bulk Add
+            </button>
+          </div>
+        </div>
+
+        @if (apiError) {
+          <div class="error-banner">
+            <span class="error-content"
+              ><i class="ti ti-alert-circle" aria-hidden="true"></i> {{ apiError }}</span
+            >
+            <button
+              class="btn-ghost btn btn-sm error-close-btn"
+              (click)="apiError = null"
+              aria-label="Dismiss error"
+            >
+              <i class="ti ti-x" aria-hidden="true"></i>
+            </button>
+          </div>
+        }
+
+        <!-- Legend -->
+        <div class="legend-strip">
+          @for (shift of shiftDetails; track shift.id || shift.name) {
+            <div class="leg-item">
+              <div class="leg-dot" [style.background]="SHIFT_DEFS[shift.name.replace(' Shift', '')]?.bg || '#185FA5'"></div>
+              {{ shift.name }}
+            </div>
+          }
+          <div class="leg-item">
+            <div class="leg-dot leg-altered"></div>
+            Timings Altered
+          </div>
+          <div class="leg-item">
+            <div class="leg-dot leg-leave"></div>
+            Leave
+          </div>
+          <div class="leg-item">
+            <div class="leg-dot leg-holiday"></div>
+            Holiday
+          </div>
+          <div class="leg-item">
+            <div class="leg-dot leg-backup"></div>
+            Backup
+          </div>
+        </div>
+
+        <!-- Roster Table Component -->
+        <app-roster-table
+          [currentView]="currentView"
+          [rosterHeaders]="rosterHeaders"
+          [filteredEmployees]="filteredEmployees"
+          [rosterAssignments]="rosterAssignments"
+          [selectedHolidays]="selectedHolidays"
+          [SHIFT_DEFS]="SHIFT_DEFS"
+          (clickEmployee)="openEmpDetail($event)"
+          (addShift)="handleAddShift($event)"
+          (modifyShift)="handleModifyShift($event)"
+          (deleteShift)="handleDeleteShift($event)"
+        ></app-roster-table>
+
+      </div>
+    </div>
+  </div>
+</div>
+
+<!-- Modal Components -->
+<app-modify-shift-modal
+  [isOpen]="isModifyShiftOpen"
+  [title]="modifyShiftTitle"
+  [empName]="mshiftEmpName"
+  [empRole]="mshiftEmpRole"
+  [duration]="mshiftDuration"
+  [selectedShiftKey]="selectedShiftKeyOption"
+  [shiftDefs]="SHIFT_DEFS"
+  (close)="isModifyShiftOpen = false"
+  (submit)="applyModifyShiftFromSub($event)"
+></app-modify-shift-modal>
+
+<app-delete-confirm-modal
+  [isOpen]="isDeleteConfirmOpen"
+  [message]="delConfirmMsg"
+  [affectedMessage]="delAffectedMsg"
+  (close)="isDeleteConfirmOpen = false"
+  (confirm)="confirmDelete()"
+></app-delete-confirm-modal>
+
+<app-bulk-add-modal
+  [isOpen]="isBulkAddOpen"
+  [employees]="employees"
+  [isLoading]="isBulkLoading"
+  [shiftDefs]="SHIFT_DEFS"
+  (close)="isBulkAddOpen = false"
+  (submit)="applyBulkAddFromSub($event)"
+></app-bulk-add-modal>
+
+<app-employee-detail-modal
+  [isOpen]="isEmpDetailOpen"
+  [emp]="empDetailEmp"
+  [shiftsLabel]="empDetailShiftsLabel"
+  [durationLabel]="empDetailDurLabel"
+  [monthLabel]="empDetailMonthLabel"
+  [calCells]="empDetailCalCells"
+  [shiftDefs]="SHIFT_DEFS"
+  (close)="isEmpDetailOpen = false"
+  (deleteAll)="openDeleteAllModal()"
+  (prevMonth)="empDetPrev()"
+  (nextMonth)="empDetNext()"
+  (clickDay)="openEmpDetDay($event)"
+></app-employee-detail-modal>

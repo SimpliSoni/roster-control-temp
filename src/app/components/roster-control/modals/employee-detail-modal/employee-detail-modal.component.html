@@ -1,0 +1,93 @@
+@if (isOpen) {
+  <div class="modal-overlay" (click)="close.emit()" role="none">
+    <div 
+      class="modal modal-lg" 
+      (click)="$event.stopPropagation()"
+      role="dialog" 
+      aria-modal="true" 
+      aria-labelledby="emp-modal-title"
+    >
+      <div class="modal-header">
+        <span class="modal-title" id="emp-modal-title">{{ emp?.name?.toUpperCase() }}</span>
+        <div class="header-actions">
+          <button
+            class="btn btn-sm btn-ghost btn-danger-action"
+            (click)="deleteAll.emit()"
+            title="Delete roster entries"
+            aria-label="Delete all shifts for employee"
+          >
+            <i class="ti ti-trash" aria-hidden="true"></i>
+          </button>
+          <button class="btn-ghost btn btn-sm" (click)="close.emit()" aria-label="Close dialog">
+            <i class="ti ti-x" aria-hidden="true"></i>
+          </button>
+        </div>
+      </div>
+      <div class="modal-body">
+        <!-- Details grid -->
+        <div class="emp-details-summary">
+          <span class="summary-label">Employee:</span>
+          <strong class="summary-value">{{ emp?.name }}</strong>
+          
+          <span class="summary-label">Designation:</span>
+          <span class="summary-value">{{ emp?.role }}</span>
+          
+          <span class="summary-label">Shift:</span>
+          <span class="summary-value">{{ shiftsLabel }}</span>
+          
+          <span class="summary-label">Duration:</span>
+          <span class="summary-value">{{ durationLabel }}</span>
+        </div>
+
+        <!-- Mini calendar showing assigned shifts -->
+        <div class="calendar-header-toolbar">
+          <span class="calendar-month-title">{{ monthLabel }}</span>
+          <div class="calendar-nav-buttons">
+            <button class="btn btn-sm btn-ghost" (click)="prevMonth.emit()" aria-label="Previous month">
+              <i class="ti ti-chevron-up" aria-hidden="true"></i>
+            </button>
+            <button class="btn btn-sm btn-ghost" (click)="nextMonth.emit()" aria-label="Next month">
+              <i class="ti ti-chevron-down" aria-hidden="true"></i>
+            </button>
+          </div>
+        </div>
+
+        <!-- Calendar Days of Week Header -->
+        <div class="calendar-dow-grid">
+          @for (dow of ['Su', 'Mo', 'Tu', 'We', 'Th', 'Fr', 'Sa']; track dow) {
+            <div class="calendar-dow-header">
+              {{ dow }}
+            </div>
+          }
+        </div>
+
+        <!-- Calendar Days Cells -->
+        <div class="calendar-cells-grid">
+          @for (cell of calCells; track $index) {
+            <div
+              (click)="cell.dayNum > 0 && clickDay.emit(cell.dateStr)"
+              [style.background]="cell.bg"
+              [style.color]="cell.fc"
+              [style.border]="cell.border"
+              class="calendar-day-cell"
+              [class.empty-cell]="cell.dayNum <= 0"
+              [title]="cell.titleText"
+            >
+              @if (cell.dayNum > 0) {
+                <div class="day-number">{{ cell.dayNum }}</div>
+              }
+              @for (s of cell.shifts; track $index) {
+                <div class="day-cell-shift-badge">
+                  {{ shiftDefs[s.shiftKey]?.label }}
+                </div>
+              }
+            </div>
+          }
+        </div>
+      </div>
+      <div class="modal-footer">
+        <button class="btn btn-primary" (click)="close.emit()">Close</button>
+      </div>
+    </div>
+  </div>
+}

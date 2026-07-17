@@ -1,0 +1,27 @@
+@if (isOpen) {
+  <div class="modal-overlay" (click)="close.emit()" role="none">
+    <div 
+      class="modal modal-xs" 
+      (click)="$event.stopPropagation()"
+      role="dialog" 
+      aria-modal="true" 
+      aria-labelledby="del-modal-title"
+    >
+      <div class="modal-header">
+        <span class="modal-title" id="del-modal-title">Confirm Delete</span>
+      </div>
+      <div class="modal-body">
+        <p class="delete-msg">{{ message }}</p>
+        @if (affectedMessage) {
+          <div class="delete-affected-msg">
+            {{ affectedMessage }}
+          </div>
+        }
+      </div>
+      <div class="modal-footer">
+        <button class="btn" (click)="close.emit()">No</button>
+        <button class="btn btn-danger" (click)="confirm.emit()">Yes</button>
+      </div>
+    </div>
+  </div>
+}

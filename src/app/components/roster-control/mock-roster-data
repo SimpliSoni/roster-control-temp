@@ -1,0 +1,5129 @@
+{
+  "className": "DataViewTimeSeriesItemContainer",
+  "data": {
+    "list": [
+      {
+        "jsonData": {
+          "role": "somashekhar.c@reactore.com",
+          "Details": [
+            {
+              "date": "2025-07-01",
+              "shiftid": "0b947677-ad5c-406c-9164-f6a372fae344",
+              "shiftdata": [
+                {
+                  "shiftstarttime": null,
+                  "shiftendtime": null,
+                  "shiftname": "Third Shift",
+                  "id": "67ad836d-112d-4354-a95d-8f2a7144e3ad"
+                },
+                {
+                  "shiftstarttime": null,
+                  "shiftendtime": null,
+                  "shiftname": "First Shift",
+                  "id": "0b947677-ad5c-406c-9164-f6a372fae344"
+                },
+                {
+                  "shiftstarttime": null,
+                  "shiftendtime": null,
+                  "shiftname": "Second Shift",
+                  "id": "24d77366-7ef1-40d0-9d29-e094d759b03f"
+                }
+              ],
+              "id": "18a2287f-ef74-4663-adb8-b07019f133f1"
+            },
+            {
+              "date": "2025-07-01",
+              "shiftid": "0b947677-ad5c-406c-9164-f6a372fae344",
+              "shiftdata": [
+                {
+                  "shiftstarttime": null,
+                  "shiftendtime": null,
+                  "shiftname": "Third Shift",
+                  "id": "67ad836d-112d-4354-a95d-8f2a7144e3ad"
+                },
+                {
+                  "shiftstarttime": null,
+                  "shiftendtime": null,
+                  "shiftname": "First Shift",
+                  "id": "0b947677-ad5c-406c-9164-f6a372fae344"
+                },
+                {
+                  "shiftstarttime": null,
+                  "shiftendtime": null,
+                  "shiftname": "Second Shift",
+                  "id": "24d77366-7ef1-40d0-9d29-e094d759b03f"
+                }
+              ],
+              "id": "db68dbdb-888d-4256-8a7f-b17196016998"
+            },
+            {
+              "date": "2025-07-01",
+              "shiftid": "0b947677-ad5c-406c-9164-f6a372fae344",
+              "shiftdata": [
+                {
+                  "shiftstarttime": null,
+                  "shiftendtime": null,
+                  "shiftname": "Third Shift",
+                  "id": "67ad836d-112d-4354-a95d-8f2a7144e3ad"
+                },
+                {
+                  "shiftstarttime": null,
+                  "shiftendtime": null,
+                  "shiftname": "First Shift",
+                  "id": "0b947677-ad5c-406c-9164-f6a372fae344"
+                },
+                {
+                  "shiftstarttime": null,
+                  "shiftendtime": null,
+                  "shiftname": "Second Shift",
+                  "id": "24d77366-7ef1-40d0-9d29-e094d759b03f"
+                }
+              ],
+              "id": "de107e1a-631d-4a3d-859d-af8dc31d53b3"
+            },
+            {
+              "date": "2025-07-01",
+              "shiftid": "24d77366-7ef1-40d0-9d29-e094d759b03f",
+              "shiftdata": [
+                {
+                  "shiftstarttime": null,
+                  "shiftendtime": null,
+                  "shiftname": "Third Shift",
+                  "id": "67ad836d-112d-4354-a95d-8f2a7144e3ad"
+                },
+                {
+                  "shiftstarttime": null,
+                  "shiftendtime": null,
+                  "shiftname": "First Shift",
+                  "id": "0b947677-ad5c-406c-9164-f6a372fae344"
+                },
+                {
+                  "shiftstarttime": null,
+                  "shiftendtime": null,
+                  "shiftname": "Second Shift",
+                  "id": "24d77366-7ef1-40d0-9d29-e094d759b03f"
+                }
+              ],
+              "id": "be5090b6-096b-41c2-9764-9236839fabb2"
+            },
+            {
+              "date": "2025-07-01",
+              "shiftid": "24d77366-7ef1-40d0-9d29-e094d759b03f",
+              "shiftdata": [
+                {
+                  "shiftstarttime": null,
+                  "shiftendtime": null,
+                  "shiftname": "Third Shift",
+                  "id": "67ad836d-112d-4354-a95d-8f2a7144e3ad"
+                },
+                {
+                  "shiftstarttime": null,
+                  "shiftendtime": null,
+                  "shiftname": "First Shift",
+                  "id": "0b947677-ad5c-406c-9164-f6a372fae344"
+                },
+                {
+                  "shiftstarttime": null,
+                  "shiftendtime": null,
+                  "shiftname": "Second Shift",
+                  "id": "24d77366-7ef1-40d0-9d29-e094d759b03f"
+                }
+              ],
+              "id": "87fdd54b-233a-4f15-bd4b-0f837a157f50"
+            },
+            {
+              "date": "2025-07-01",
+              "shiftid": "24d77366-7ef1-40d0-9d29-e094d759b03f",
+              "shiftdata": [
+                {
+                  "shiftstarttime": null,
+                  "shiftendtime": null,
+                  "shiftname": "Third Shift",
+                  "id": "67ad836d-112d-4354-a95d-8f2a7144e3ad"
+                },
+                {
+                  "shiftstarttime": null,
+                  "shiftendtime": null,
+                  "shiftname": "First Shift",
+                  "id": "0b947677-ad5c-406c-9164-f6a372fae344"
+                },
+                {
+                  "shiftstarttime": null,
+                  "shiftendtime": null,
+                  "shiftname": "Second Shift",
+                  "id": "24d77366-7ef1-40d0-9d29-e094d759b03f"
+                }
+              ],
+              "id": "bd92e1f5-e522-4a78-9698-4a6ae0e5ad2a"
+            },
+            {
+              "date": "2025-06-01",
+              "shiftid": "0b947677-ad5c-406c-9164-f6a372fae344",
+              "shiftdata": [
+                {
+                  "shiftstarttime": null,
+                  "shiftendtime": null,
+                  "shiftname": "Third Shift",
+                  "id": "67ad836d-112d-4354-a95d-8f2a7144e3ad"
+                },
+                {
+                  "shiftstarttime": null,
+                  "shiftendtime": null,
+                  "shiftname": "First Shift",
+                  "id": "0b947677-ad5c-406c-9164-f6a372fae344"
+                },
+                {
+                  "shiftstarttime": null,
+                  "shiftendtime": null,
+                  "shiftname": "Second Shift",
+                  "id": "24d77366-7ef1-40d0-9d29-e094d759b03f"
+                }
+              ],
+              "id": "28d10563-6c07-4ef5-b793-89febaf77dd4"
+            },
+            {
+              "date": "2025-06-01",
+              "shiftid": "67ad836d-112d-4354-a95d-8f2a7144e3ad",
+              "shiftdata": [
+                {
+                  "shiftstarttime": null,
+                  "shiftendtime": null,
+                  "shiftname": "Third Shift",
+                  "id": "67ad836d-112d-4354-a95d-8f2a7144e3ad"
+                },
+                {
+                  "shiftstarttime": null,
+                  "shiftendtime": null,
+                  "shiftname": "First Shift",
+                  "id": "0b947677-ad5c-406c-9164-f6a372fae344"
+                },
+                {
+                  "shiftstarttime": null,
+                  "shiftendtime": null,
+                  "shiftname": "Second Shift",
+                  "id": "24d77366-7ef1-40d0-9d29-e094d759b03f"
+                }
+              ],
+              "id": "5ab95dfa-62c7-4ec2-b243-0bc29eac9a46"
+            },
+            {
+              "date": "2025-07-01",
+              "shiftid": "24d77366-7ef1-40d0-9d29-e094d759b03f",
+              "shiftdata": [
+                {
+                  "shiftstarttime": null,
+                  "shiftendtime": null,
+                  "shiftname": "Third Shift",
+                  "id": "67ad836d-112d-4354-a95d-8f2a7144e3ad"
+                },
+                {
+                  "shiftstarttime": null,
+                  "shiftendtime": null,
+                  "shiftname": "First Shift",
+                  "id": "0b947677-ad5c-406c-9164-f6a372fae344"
+                },
+                {
+                  "shiftstarttime": null,
+                  "shiftendtime": null,
+                  "shiftname": "Second Shift",
+                  "id": "24d77366-7ef1-40d0-9d29-e094d759b03f"
+                }
+              ],
+              "id": "9c8d5148-bfc1-492c-99dd-6835f3a1fe6e"
+            },
+            {
+              "date": "2025-09-01",
+              "shiftid": "67ad836d-112d-4354-a95d-8f2a7144e3ad",
+              "shiftdata": [
+                {
+                  "shiftstarttime": null,
+                  "shiftendtime": null,
+                  "shiftname": "Third Shift",
+                  "id": "67ad836d-112d-4354-a95d-8f2a7144e3ad"
+                },
+                {
+                  "shiftstarttime": null,
+                  "shiftendtime": null,
+                  "shiftname": "First Shift",
+                  "id": "0b947677-ad5c-406c-9164-f6a372fae344"
+                },
+                {
+                  "shiftstarttime": null,
+                  "shiftendtime": null,
+                  "shiftname": "Second Shift",
+                  "id": "24d77366-7ef1-40d0-9d29-e094d759b03f"
+                }
+              ],
+              "id": "fa3a937c-1a6e-467e-9c0b-ef7fb0dea600"
+            },
+            {
+              "date": "2025-08-26",
+              "shiftid": "67ad836d-112d-4354-a95d-8f2a7144e3ad",
+              "shiftdata": [
+                {
+                  "shiftstarttime": null,
+                  "shiftendtime": null,
+                  "shiftname": "Third Shift",
+                  "id": "67ad836d-112d-4354-a95d-8f2a7144e3ad"
+                },
+                {
+                  "shiftstarttime": null,
+                  "shiftendtime": null,
+                  "shiftname": "First Shift",
+                  "id": "0b947677-ad5c-406c-9164-f6a372fae344"
+                },
+                {
+                  "shiftstarttime": null,
+                  "shiftendtime": null,
+                  "shiftname": "Second Shift",
+                  "id": "24d77366-7ef1-40d0-9d29-e094d759b03f"
+                }
+              ],
+              "id": "1ae47d9b-ec20-49a0-b378-3752310c4083"
+            },
+            {
+              "date": "2025-08-28",
+              "shiftid": "67ad836d-112d-4354-a95d-8f2a7144e3ad",
+              "shiftdata": [
+                {
+                  "shiftstarttime": null,
+                  "shiftendtime": null,
+                  "shiftname": "Third Shift",
+                  "id": "67ad836d-112d-4354-a95d-8f2a7144e3ad"
+                },
+                {
+                  "shiftstarttime": null,
+                  "shiftendtime": null,
+                  "shiftname": "First Shift",
+                  "id": "0b947677-ad5c-406c-9164-f6a372fae344"
+                },
+                {
+                  "shiftstarttime": null,
+                  "shiftendtime": null,
+                  "shiftname": "Second Shift",
+                  "id": "24d77366-7ef1-40d0-9d29-e094d759b03f"
+                }
+              ],
+              "id": "573d4035-67bf-44e7-aff8-9cb47005f0dd"
+            },
+            {
+              "date": "2025-09-17",
+              "shiftid": "67ad836d-112d-4354-a95d-8f2a7144e3ad",
+              "shiftdata": [
+                {
+                  "shiftstarttime": null,
+                  "shiftendtime": null,
+                  "shiftname": "Third Shift",
+                  "id": "67ad836d-112d-4354-a95d-8f2a7144e3ad"
+                },
+                {
+                  "shiftstarttime": null,
+                  "shiftendtime": null,
+                  "shiftname": "First Shift",
+                  "id": "0b947677-ad5c-406c-9164-f6a372fae344"
+                },
+                {
+                  "shiftstarttime": null,
+                  "shiftendtime": null,
+                  "shiftname": "Second Shift",
+                  "id": "24d77366-7ef1-40d0-9d29-e094d759b03f"
+                }
+              ],
+              "id": "148ecb13-fcd9-4b18-af86-ea5de22dd9b3"
+            },
+            {
+              "date": "2025-09-17",
+              "shiftid": "67ad836d-112d-4354-a95d-8f2a7144e3ad",
+              "shiftdata": [
+                {
+                  "shiftstarttime": null,
+                  "shiftendtime": null,
+                  "shiftname": "Third Shift",
+                  "id": "67ad836d-112d-4354-a95d-8f2a7144e3ad"
+                },
+                {
+                  "shiftstarttime": null,
+                  "shiftendtime": null,
+                  "shiftname": "First Shift",
+                  "id": "0b947677-ad5c-406c-9164-f6a372fae344"
+                },
+                {
+                  "shiftstarttime": null,
+                  "shiftendtime": null,
+                  "shiftname": "Second Shift",
+                  "id": "24d77366-7ef1-40d0-9d29-e094d759b03f"
+                }
+              ],
+              "id": "68963943-4744-498f-ba17-9c502c45eba4"
+            },
+            {
+              "date": "2025-10-01",
+              "shiftid": "67ad836d-112d-4354-a95d-8f2a7144e3ad",
+              "shiftdata": [
+                {
+                  "shiftstarttime": null,
+                  "shiftendtime": null,
+                  "shiftname": "Third Shift",
+                  "id": "67ad836d-112d-4354-a95d-8f2a7144e3ad"
+                },
+                {
+                  "shiftstarttime": null,
+                  "shiftendtime": null,
+                  "shiftname": "First Shift",
+                  "id": "0b947677-ad5c-406c-9164-f6a372fae344"
+                },
+                {
+                  "shiftstarttime": null,
+                  "shiftendtime": null,
+                  "shiftname": "Second Shift",
+                  "id": "24d77366-7ef1-40d0-9d29-e094d759b03f"
+                }
+              ],
+              "id": "b11165d9-d5ea-430d-b7c5-560990625055"
+            },
+            {
+              "date": "2025-10-01",
+              "shiftid": "67ad836d-112d-4354-a95d-8f2a7144e3ad",
+              "shiftdata": [
+                {
+                  "shiftstarttime": null,
+                  "shiftendtime": null,
+                  "shiftname": "Third Shift",
+                  "id": "67ad836d-112d-4354-a95d-8f2a7144e3ad"
+                },
+                {
+                  "shiftstarttime": null,
+                  "shiftendtime": null,
+                  "shiftname": "First Shift",
+                  "id": "0b947677-ad5c-406c-9164-f6a372fae344"
+                },
+                {
+                  "shiftstarttime": null,
+                  "shiftendtime": null,
+                  "shiftname": "Second Shift",
+                  "id": "24d77366-7ef1-40d0-9d29-e094d759b03f"
+                }
+              ],
+              "id": "bf15ff75-413b-40e6-9c8b-884fb994d952"
+            },
+            {
+              "date": "2025-10-01",
+              "shiftid": "67ad836d-112d-4354-a95d-8f2a7144e3ad",
+              "shiftdata": [
+                {
+                  "shiftstarttime": null,
+                  "shiftendtime": null,
+                  "shiftname": "Third Shift",
+                  "id": "67ad836d-112d-4354-a95d-8f2a7144e3ad"
+                },
+                {
+                  "shiftstarttime": null,
+                  "shiftendtime": null,
+                  "shiftname": "First Shift",
+                  "id": "0b947677-ad5c-406c-9164-f6a372fae344"
+                },
+                {
+                  "shiftstarttime": null,
+                  "shiftendtime": null,
+                  "shiftname": "Second Shift",
+                  "id": "24d77366-7ef1-40d0-9d29-e094d759b03f"
+                }
+              ],
+              "id": "147e9bc2-0033-4279-a972-716d02ed4ae8"
+            },
+            {
+              "date": "2025-11-01",
+              "shiftid": "24d77366-7ef1-40d0-9d29-e094d759b03f",
+              "shiftdata": [
+                {
+                  "shiftstarttime": null,
+                  "shiftendtime": null,
+                  "shiftname": "Third Shift",
+                  "id": "67ad836d-112d-4354-a95d-8f2a7144e3ad"
+                },
+                {
+                  "shiftstarttime": null,
+                  "shiftendtime": null,
+                  "shiftname": "First Shift",
+                  "id": "0b947677-ad5c-406c-9164-f6a372fae344"
+                },
+                {
+                  "shiftstarttime": null,
+                  "shiftendtime": null,
+                  "shiftname": "Second Shift",
+                  "id": "24d77366-7ef1-40d0-9d29-e094d759b03f"
+                }
+              ],
+              "id": "0ed771b4-0fb8-4979-9d66-257ed4dab2b9"
+            },
+            {
+              "date": "2025-11-01",
+              "shiftid": "24d77366-7ef1-40d0-9d29-e094d759b03f",
+              "shiftdata": [
+                {
+                  "shiftstarttime": null,
+                  "shiftendtime": null,
+                  "shiftname": "Third Shift",
+                  "id": "67ad836d-112d-4354-a95d-8f2a7144e3ad"
+                },
+                {
+                  "shiftstarttime": null,
+                  "shiftendtime": null,
+                  "shiftname": "First Shift",
+                  "id": "0b947677-ad5c-406c-9164-f6a372fae344"
+                },
+                {
+                  "shiftstarttime": null,
+                  "shiftendtime": null,
+                  "shiftname": "Second Shift",
+                  "id": "24d77366-7ef1-40d0-9d29-e094d759b03f"
+                }
+              ],
+              "id": "322afcf2-6056-4da0-adac-dc048ff3eee9"
+            },
+            {
+              "date": "2025-11-01",
+              "shiftid": "24d77366-7ef1-40d0-9d29-e094d759b03f",
+              "shiftdata": [
+                {
+                  "shiftstarttime": null,
+                  "shiftendtime": null,
+                  "shiftname": "Third Shift",
+                  "id": "67ad836d-112d-4354-a95d-8f2a7144e3ad"
+                },
+                {
+                  "shiftstarttime": null,
+                  "shiftendtime": null,
+                  "shiftname": "First Shift",
+                  "id": "0b947677-ad5c-406c-9164-f6a372fae344"
+                },
+                {
+                  "shiftstarttime": null,
+                  "shiftendtime": null,
+                  "shiftname": "Second Shift",
+                  "id": "24d77366-7ef1-40d0-9d29-e094d759b03f"
+                }
+              ],
+              "id": "3a300de7-10b6-4e7d-b1c9-9dbe07b7c875"
+            },
+            {
+              "date": "2025-11-01",
+              "shiftid": "24d77366-7ef1-40d0-9d29-e094d759b03f",
+              "shiftdata": [
+                {
+                  "shiftstarttime": null,
+                  "shiftendtime": null,
+                  "shiftname": "Third Shift",
+                  "id": "67ad836d-112d-4354-a95d-8f2a7144e3ad"
+                },
+                {
+                  "shiftstarttime": null,
+                  "shiftendtime": null,
+                  "shiftname": "First Shift",
+                  "id": "0b947677-ad5c-406c-9164-f6a372fae344"
+                },
+                {
+                  "shiftstarttime": null,
+                  "shiftendtime": null,
+                  "shiftname": "Second Shift",
+                  "id": "24d77366-7ef1-40d0-9d29-e094d759b03f"
+                }
+              ],
+              "id": "d5d01fec-7cb3-4376-9743-9b83a110d309"
+            },
+            {
+              "date": "2025-12-01",
+              "shiftid": "24d77366-7ef1-40d0-9d29-e094d759b03f",
+              "shiftdata": [
+                {
+                  "shiftstarttime": null,
+                  "shiftendtime": null,
+                  "shiftname": "Third Shift",
+                  "id": "67ad836d-112d-4354-a95d-8f2a7144e3ad"
+                },
+                {
+                  "shiftstarttime": null,
+                  "shiftendtime": null,
+                  "shiftname": "First Shift",
+                  "id": "0b947677-ad5c-406c-9164-f6a372fae344"
+                },
+                {
+                  "shiftstarttime": null,
+                  "shiftendtime": null,
+                  "shiftname": "Second Shift",
+                  "id": "24d77366-7ef1-40d0-9d29-e094d759b03f"
+                }
+              ],
+              "id": "96700f84-ffda-4201-92da-f966a4d25658"
+            },
+            {
+              "date": "2025-12-01",
+              "shiftid": "24d77366-7ef1-40d0-9d29-e094d759b03f",
+              "shiftdata": [
+                {
+                  "shiftstarttime": null,
+                  "shiftendtime": null,
+                  "shiftname": "Third Shift",
+                  "id": "67ad836d-112d-4354-a95d-8f2a7144e3ad"
+                },
+                {
+                  "shiftstarttime": null,
+                  "shiftendtime": null,
+                  "shiftname": "First Shift",
+                  "id": "0b947677-ad5c-406c-9164-f6a372fae344"
+                },
+                {
+                  "shiftstarttime": null,
+                  "shiftendtime": null,
+                  "shiftname": "Second Shift",
+                  "id": "24d77366-7ef1-40d0-9d29-e094d759b03f"
+                }
+              ],
+              "id": "ab4d14d7-db29-457f-9638-ce77f8bb41c8"
+            },
+            {
+              "date": "2026-05-01",
+              "shiftid": "67ad836d-112d-4354-a95d-8f2a7144e3ad",
+              "shiftdata": [
+                {
+                  "shiftstarttime": null,
+                  "shiftendtime": null,
+                  "shiftname": "Third Shift",
+                  "id": "67ad836d-112d-4354-a95d-8f2a7144e3ad"
+                },
+                {
+                  "shiftstarttime": null,
+                  "shiftendtime": null,
+                  "shiftname": "First Shift",
+                  "id": "0b947677-ad5c-406c-9164-f6a372fae344"
+                },
+                {
+                  "shiftstarttime": null,
+                  "shiftendtime": null,
+                  "shiftname": "Second Shift",
+                  "id": "24d77366-7ef1-40d0-9d29-e094d759b03f"
+                }
+              ],
+              "id": "5ed92358-6eb2-4e41-8bb2-40f143deabab"
+            },
+            {
+              "date": "2026-05-01",
+              "shiftid": "24d77366-7ef1-40d0-9d29-e094d759b03f",
+              "shiftdata": [
+                {
+                  "shiftstarttime": null,
+                  "shiftendtime": null,
+                  "shiftname": "Third Shift",
+                  "id": "67ad836d-112d-4354-a95d-8f2a7144e3ad"
+                },
+                {
+                  "shiftstarttime": null,
+                  "shiftendtime": null,
+                  "shiftname": "First Shift",
+                  "id": "0b947677-ad5c-406c-9164-f6a372fae344"
+                },
+                {
+                  "shiftstarttime": null,
+                  "shiftendtime": null,
+                  "shiftname": "Second Shift",
+                  "id": "24d77366-7ef1-40d0-9d29-e094d759b03f"
+                }
+              ],
+              "id": "14f8c8fe-7db2-4ff5-8245-47932d2103db"
+            }
+          ],
+          "id": "660fb9542aacbd33a4a6d251",
+          "date": "2026-07-13T07:59:15.770Z",
+          "employeename": "Ashok K",
+          "employeenumber": "EMP-107"
+        },
+        "tsDate": "2026-07-13T07:59:15.770Z",
+        "exception": null,
+        "key": "660fb9542aacbd33a4a6d251",
+        "groupBy": null
+      },
+      {
+        "jsonData": {
+          "role": "naveen.k@reactore.com",
+          "Details": [
+            {
+              "date": "2025-07-01",
+              "shiftid": "0b947677-ad5c-406c-9164-f6a372fae344",
+              "shiftdata": [
+                {
+                  "shiftstarttime": null,
+                  "shiftendtime": null,
+                  "shiftname": "Third Shift",
+                  "id": "67ad836d-112d-4354-a95d-8f2a7144e3ad"
+                },
+                {
+                  "shiftstarttime": null,
+                  "shiftendtime": null,
+                  "shiftname": "First Shift",
+                  "id": "0b947677-ad5c-406c-9164-f6a372fae344"
+                },
+                {
+                  "shiftstarttime": null,
+                  "shiftendtime": null,
+                  "shiftname": "Second Shift",
+                  "id": "24d77366-7ef1-40d0-9d29-e094d759b03f"
+                }
+              ],
+              "id": "18a2287f-ef74-4663-adb8-b07019f133f1"
+            },
+            {
+              "date": "2025-07-01",
+              "shiftid": "0b947677-ad5c-406c-9164-f6a372fae344",
+              "shiftdata": [
+                {
+                  "shiftstarttime": null,
+                  "shiftendtime": null,
+                  "shiftname": "Third Shift",
+                  "id": "67ad836d-112d-4354-a95d-8f2a7144e3ad"
+                },
+                {
+                  "shiftstarttime": null,
+                  "shiftendtime": null,
+                  "shiftname": "First Shift",
+                  "id": "0b947677-ad5c-406c-9164-f6a372fae344"
+                },
+                {
+                  "shiftstarttime": null,
+                  "shiftendtime": null,
+                  "shiftname": "Second Shift",
+                  "id": "24d77366-7ef1-40d0-9d29-e094d759b03f"
+                }
+              ],
+              "id": "db68dbdb-888d-4256-8a7f-b17196016998"
+            },
+            {
+              "date": "2025-07-01",
+              "shiftid": "0b947677-ad5c-406c-9164-f6a372fae344",
+              "shiftdata": [
+                {
+                  "shiftstarttime": null,
+                  "shiftendtime": null,
+                  "shiftname": "Third Shift",
+                  "id": "67ad836d-112d-4354-a95d-8f2a7144e3ad"
+                },
+                {
+                  "shiftstarttime": null,
+                  "shiftendtime": null,
+                  "shiftname": "First Shift",
+                  "id": "0b947677-ad5c-406c-9164-f6a372fae344"
+                },
+                {
+                  "shiftstarttime": null,
+                  "shiftendtime": null,
+                  "shiftname": "Second Shift",
+                  "id": "24d77366-7ef1-40d0-9d29-e094d759b03f"
+                }
+              ],
+              "id": "de107e1a-631d-4a3d-859d-af8dc31d53b3"
+            },
+            {
+              "date": "2025-07-01",
+              "shiftid": "24d77366-7ef1-40d0-9d29-e094d759b03f",
+              "shiftdata": [
+                {
+                  "shiftstarttime": null,
+                  "shiftendtime": null,
+                  "shiftname": "Third Shift",
+                  "id": "67ad836d-112d-4354-a95d-8f2a7144e3ad"
+                },
+                {
+                  "shiftstarttime": null,
+                  "shiftendtime": null,
+                  "shiftname": "First Shift",
+                  "id": "0b947677-ad5c-406c-9164-f6a372fae344"
+                },
+                {
+                  "shiftstarttime": null,
+                  "shiftendtime": null,
+                  "shiftname": "Second Shift",
+                  "id": "24d77366-7ef1-40d0-9d29-e094d759b03f"
+                }
+              ],
+              "id": "be5090b6-096b-41c2-9764-9236839fabb2"
+            },
+            {
+              "date": "2025-07-01",
+              "shiftid": "24d77366-7ef1-40d0-9d29-e094d759b03f",
+              "shiftdata": [
+                {
+                  "shiftstarttime": null,
+                  "shiftendtime": null,
+                  "shiftname": "Third Shift",
+                  "id": "67ad836d-112d-4354-a95d-8f2a7144e3ad"
+                },
+                {
+                  "shiftstarttime": null,
+                  "shiftendtime": null,
+                  "shiftname": "First Shift",
+                  "id": "0b947677-ad5c-406c-9164-f6a372fae344"
+                },
+                {
+                  "shiftstarttime": null,
+                  "shiftendtime": null,
+                  "shiftname": "Second Shift",
+                  "id": "24d77366-7ef1-40d0-9d29-e094d759b03f"
+                }
+              ],
+              "id": "87fdd54b-233a-4f15-bd4b-0f837a157f50"
+            },
+            {
+              "date": "2025-07-01",
+              "shiftid": "24d77366-7ef1-40d0-9d29-e094d759b03f",
+              "shiftdata": [
+                {
+                  "shiftstarttime": null,
+                  "shiftendtime": null,
+                  "shiftname": "Third Shift",
+                  "id": "67ad836d-112d-4354-a95d-8f2a7144e3ad"
+                },
+                {
+                  "shiftstarttime": null,
+                  "shiftendtime": null,
+                  "shiftname": "First Shift",
+                  "id": "0b947677-ad5c-406c-9164-f6a372fae344"
+                },
+                {
+                  "shiftstarttime": null,
+                  "shiftendtime": null,
+                  "shiftname": "Second Shift",
+                  "id": "24d77366-7ef1-40d0-9d29-e094d759b03f"
+                }
+              ],
+              "id": "bd92e1f5-e522-4a78-9698-4a6ae0e5ad2a"
+            },
+            {
+              "date": "2025-06-01",
+              "shiftid": "0b947677-ad5c-406c-9164-f6a372fae344",
+              "shiftdata": [
+                {
+                  "shiftstarttime": null,
+                  "shiftendtime": null,
+                  "shiftname": "Third Shift",
+                  "id": "67ad836d-112d-4354-a95d-8f2a7144e3ad"
+                },
+                {
+                  "shiftstarttime": null,
+                  "shiftendtime": null,
+                  "shiftname": "First Shift",
+                  "id": "0b947677-ad5c-406c-9164-f6a372fae344"
+                },
+                {
+                  "shiftstarttime": null,
+                  "shiftendtime": null,
+                  "shiftname": "Second Shift",
+                  "id": "24d77366-7ef1-40d0-9d29-e094d759b03f"
+                }
+              ],
+              "id": "28d10563-6c07-4ef5-b793-89febaf77dd4"
+            },
+            {
+              "date": "2025-06-01",
+              "shiftid": "67ad836d-112d-4354-a95d-8f2a7144e3ad",
+              "shiftdata": [
+                {
+                  "shiftstarttime": null,
+                  "shiftendtime": null,
+                  "shiftname": "Third Shift",
+                  "id": "67ad836d-112d-4354-a95d-8f2a7144e3ad"
+                },
+                {
+                  "shiftstarttime": null,
+                  "shiftendtime": null,
+                  "shiftname": "First Shift",
+                  "id": "0b947677-ad5c-406c-9164-f6a372fae344"
+                },
+                {
+                  "shiftstarttime": null,
+                  "shiftendtime": null,
+                  "shiftname": "Second Shift",
+                  "id": "24d77366-7ef1-40d0-9d29-e094d759b03f"
+                }
+              ],
+              "id": "5ab95dfa-62c7-4ec2-b243-0bc29eac9a46"
+            },
+            {
+              "date": "2025-07-01",
+              "shiftid": "24d77366-7ef1-40d0-9d29-e094d759b03f",
+              "shiftdata": [
+                {
+                  "shiftstarttime": null,
+                  "shiftendtime": null,
+                  "shiftname": "Third Shift",
+                  "id": "67ad836d-112d-4354-a95d-8f2a7144e3ad"
+                },
+                {
+                  "shiftstarttime": null,
+                  "shiftendtime": null,
+                  "shiftname": "First Shift",
+                  "id": "0b947677-ad5c-406c-9164-f6a372fae344"
+                },
+                {
+                  "shiftstarttime": null,
+                  "shiftendtime": null,
+                  "shiftname": "Second Shift",
+                  "id": "24d77366-7ef1-40d0-9d29-e094d759b03f"
+                }
+              ],
+              "id": "9c8d5148-bfc1-492c-99dd-6835f3a1fe6e"
+            },
+            {
+              "date": "2025-09-01",
+              "shiftid": "67ad836d-112d-4354-a95d-8f2a7144e3ad",
+              "shiftdata": [
+                {
+                  "shiftstarttime": null,
+                  "shiftendtime": null,
+                  "shiftname": "Third Shift",
+                  "id": "67ad836d-112d-4354-a95d-8f2a7144e3ad"
+                },
+                {
+                  "shiftstarttime": null,
+                  "shiftendtime": null,
+                  "shiftname": "First Shift",
+                  "id": "0b947677-ad5c-406c-9164-f6a372fae344"
+                },
+                {
+                  "shiftstarttime": null,
+                  "shiftendtime": null,
+                  "shiftname": "Second Shift",
+                  "id": "24d77366-7ef1-40d0-9d29-e094d759b03f"
+                }
+              ],
+              "id": "fa3a937c-1a6e-467e-9c0b-ef7fb0dea600"
+            },
+            {
+              "date": "2025-08-26",
+              "shiftid": "67ad836d-112d-4354-a95d-8f2a7144e3ad",
+              "shiftdata": [
+                {
+                  "shiftstarttime": null,
+                  "shiftendtime": null,
+                  "shiftname": "Third Shift",
+                  "id": "67ad836d-112d-4354-a95d-8f2a7144e3ad"
+                },
+                {
+                  "shiftstarttime": null,
+                  "shiftendtime": null,
+                  "shiftname": "First Shift",
+                  "id": "0b947677-ad5c-406c-9164-f6a372fae344"
+                },
+                {
+                  "shiftstarttime": null,
+                  "shiftendtime": null,
+                  "shiftname": "Second Shift",
+                  "id": "24d77366-7ef1-40d0-9d29-e094d759b03f"
+                }
+              ],
+              "id": "1ae47d9b-ec20-49a0-b378-3752310c4083"
+            },
+            {
+              "date": "2025-08-28",
+              "shiftid": "67ad836d-112d-4354-a95d-8f2a7144e3ad",
+              "shiftdata": [
+                {
+                  "shiftstarttime": null,
+                  "shiftendtime": null,
+                  "shiftname": "Third Shift",
+                  "id": "67ad836d-112d-4354-a95d-8f2a7144e3ad"
+                },
+                {
+                  "shiftstarttime": null,
+                  "shiftendtime": null,
+                  "shiftname": "First Shift",
+                  "id": "0b947677-ad5c-406c-9164-f6a372fae344"
+                },
+                {
+                  "shiftstarttime": null,
+                  "shiftendtime": null,
+                  "shiftname": "Second Shift",
+                  "id": "24d77366-7ef1-40d0-9d29-e094d759b03f"
+                }
+              ],
+              "id": "573d4035-67bf-44e7-aff8-9cb47005f0dd"
+            },
+            {
+              "date": "2025-09-17",
+              "shiftid": "67ad836d-112d-4354-a95d-8f2a7144e3ad",
+              "shiftdata": [
+                {
+                  "shiftstarttime": null,
+                  "shiftendtime": null,
+                  "shiftname": "Third Shift",
+                  "id": "67ad836d-112d-4354-a95d-8f2a7144e3ad"
+                },
+                {
+                  "shiftstarttime": null,
+                  "shiftendtime": null,
+                  "shiftname": "First Shift",
+                  "id": "0b947677-ad5c-406c-9164-f6a372fae344"
+                },
+                {
+                  "shiftstarttime": null,
+                  "shiftendtime": null,
+                  "shiftname": "Second Shift",
+                  "id": "24d77366-7ef1-40d0-9d29-e094d759b03f"
+                }
+              ],
+              "id": "148ecb13-fcd9-4b18-af86-ea5de22dd9b3"
+            },
+            {
+              "date": "2025-09-17",
+              "shiftid": "67ad836d-112d-4354-a95d-8f2a7144e3ad",
+              "shiftdata": [
+                {
+                  "shiftstarttime": null,
+                  "shiftendtime": null,
+                  "shiftname": "Third Shift",
+                  "id": "67ad836d-112d-4354-a95d-8f2a7144e3ad"
+                },
+                {
+                  "shiftstarttime": null,
+                  "shiftendtime": null,
+                  "shiftname": "First Shift",
+                  "id": "0b947677-ad5c-406c-9164-f6a372fae344"
+                },
+                {
+                  "shiftstarttime": null,
+                  "shiftendtime": null,
+                  "shiftname": "Second Shift",
+                  "id": "24d77366-7ef1-40d0-9d29-e094d759b03f"
+                }
+              ],
+              "id": "68963943-4744-498f-ba17-9c502c45eba4"
+            },
+            {
+              "date": "2025-10-01",
+              "shiftid": "67ad836d-112d-4354-a95d-8f2a7144e3ad",
+              "shiftdata": [
+                {
+                  "shiftstarttime": null,
+                  "shiftendtime": null,
+                  "shiftname": "Third Shift",
+                  "id": "67ad836d-112d-4354-a95d-8f2a7144e3ad"
+                },
+                {
+                  "shiftstarttime": null,
+                  "shiftendtime": null,
+                  "shiftname": "First Shift",
+                  "id": "0b947677-ad5c-406c-9164-f6a372fae344"
+                },
+                {
+                  "shiftstarttime": null,
+                  "shiftendtime": null,
+                  "shiftname": "Second Shift",
+                  "id": "24d77366-7ef1-40d0-9d29-e094d759b03f"
+                }
+              ],
+              "id": "b11165d9-d5ea-430d-b7c5-560990625055"
+            },
+            {
+              "date": "2025-10-01",
+              "shiftid": "67ad836d-112d-4354-a95d-8f2a7144e3ad",
+              "shiftdata": [
+                {
+                  "shiftstarttime": null,
+                  "shiftendtime": null,
+                  "shiftname": "Third Shift",
+                  "id": "67ad836d-112d-4354-a95d-8f2a7144e3ad"
+                },
+                {
+                  "shiftstarttime": null,
+                  "shiftendtime": null,
+                  "shiftname": "First Shift",
+                  "id": "0b947677-ad5c-406c-9164-f6a372fae344"
+                },
+                {
+                  "shiftstarttime": null,
+                  "shiftendtime": null,
+                  "shiftname": "Second Shift",
+                  "id": "24d77366-7ef1-40d0-9d29-e094d759b03f"
+                }
+              ],
+              "id": "bf15ff75-413b-40e6-9c8b-884fb994d952"
+            },
+            {
+              "date": "2025-10-01",
+              "shiftid": "67ad836d-112d-4354-a95d-8f2a7144e3ad",
+              "shiftdata": [
+                {
+                  "shiftstarttime": null,
+                  "shiftendtime": null,
+                  "shiftname": "Third Shift",
+                  "id": "67ad836d-112d-4354-a95d-8f2a7144e3ad"
+                },
+                {
+                  "shiftstarttime": null,
+                  "shiftendtime": null,
+                  "shiftname": "First Shift",
+                  "id": "0b947677-ad5c-406c-9164-f6a372fae344"
+                },
+                {
+                  "shiftstarttime": null,
+                  "shiftendtime": null,
+                  "shiftname": "Second Shift",
+                  "id": "24d77366-7ef1-40d0-9d29-e094d759b03f"
+                }
+              ],
+              "id": "147e9bc2-0033-4279-a972-716d02ed4ae8"
+            },
+            {
+              "date": "2025-11-01",
+              "shiftid": "24d77366-7ef1-40d0-9d29-e094d759b03f",
+              "shiftdata": [
+                {
+                  "shiftstarttime": null,
+                  "shiftendtime": null,
+                  "shiftname": "Third Shift",
+                  "id": "67ad836d-112d-4354-a95d-8f2a7144e3ad"
+                },
+                {
+                  "shiftstarttime": null,
+                  "shiftendtime": null,
+                  "shiftname": "First Shift",
+                  "id": "0b947677-ad5c-406c-9164-f6a372fae344"
+                },
+                {
+                  "shiftstarttime": null,
+                  "shiftendtime": null,
+                  "shiftname": "Second Shift",
+                  "id": "24d77366-7ef1-40d0-9d29-e094d759b03f"
+                }
+              ],
+              "id": "0ed771b4-0fb8-4979-9d66-257ed4dab2b9"
+            },
+            {
+              "date": "2025-11-01",
+              "shiftid": "24d77366-7ef1-40d0-9d29-e094d759b03f",
+              "shiftdata": [
+                {
+                  "shiftstarttime": null,
+                  "shiftendtime": null,
+                  "shiftname": "Third Shift",
+                  "id": "67ad836d-112d-4354-a95d-8f2a7144e3ad"
+                },
+                {
+                  "shiftstarttime": null,
+                  "shiftendtime": null,
+                  "shiftname": "First Shift",
+                  "id": "0b947677-ad5c-406c-9164-f6a372fae344"
+                },
+                {
+                  "shiftstarttime": null,
+                  "shiftendtime": null,
+                  "shiftname": "Second Shift",
+                  "id": "24d77366-7ef1-40d0-9d29-e094d759b03f"
+                }
+              ],
+              "id": "322afcf2-6056-4da0-adac-dc048ff3eee9"
+            },
+            {
+              "date": "2025-11-01",
+              "shiftid": "24d77366-7ef1-40d0-9d29-e094d759b03f",
+              "shiftdata": [
+                {
+                  "shiftstarttime": null,
+                  "shiftendtime": null,
+                  "shiftname": "Third Shift",
+                  "id": "67ad836d-112d-4354-a95d-8f2a7144e3ad"
+                },
+                {
+                  "shiftstarttime": null,
+                  "shiftendtime": null,
+                  "shiftname": "First Shift",
+                  "id": "0b947677-ad5c-406c-9164-f6a372fae344"
+                },
+                {
+                  "shiftstarttime": null,
+                  "shiftendtime": null,
+                  "shiftname": "Second Shift",
+                  "id": "24d77366-7ef1-40d0-9d29-e094d759b03f"
+                }
+              ],
+              "id": "3a300de7-10b6-4e7d-b1c9-9dbe07b7c875"
+            },
+            {
+              "date": "2025-11-01",
+              "shiftid": "24d77366-7ef1-40d0-9d29-e094d759b03f",
+              "shiftdata": [
+                {
+                  "shiftstarttime": null,
+                  "shiftendtime": null,
+                  "shiftname": "Third Shift",
+                  "id": "67ad836d-112d-4354-a95d-8f2a7144e3ad"
+                },
+                {
+                  "shiftstarttime": null,
+                  "shiftendtime": null,
+                  "shiftname": "First Shift",
+                  "id": "0b947677-ad5c-406c-9164-f6a372fae344"
+                },
+                {
+                  "shiftstarttime": null,
+                  "shiftendtime": null,
+                  "shiftname": "Second Shift",
+                  "id": "24d77366-7ef1-40d0-9d29-e094d759b03f"
+                }
+              ],
+              "id": "d5d01fec-7cb3-4376-9743-9b83a110d309"
+            },
+            {
+              "date": "2025-12-01",
+              "shiftid": "24d77366-7ef1-40d0-9d29-e094d759b03f",
+              "shiftdata": [
+                {
+                  "shiftstarttime": null,
+                  "shiftendtime": null,
+                  "shiftname": "Third Shift",
+                  "id": "67ad836d-112d-4354-a95d-8f2a7144e3ad"
+                },
+                {
+                  "shiftstarttime": null,
+                  "shiftendtime": null,
+                  "shiftname": "First Shift",
+                  "id": "0b947677-ad5c-406c-9164-f6a372fae344"
+                },
+                {
+                  "shiftstarttime": null,
+                  "shiftendtime": null,
+                  "shiftname": "Second Shift",
+                  "id": "24d77366-7ef1-40d0-9d29-e094d759b03f"
+                }
+              ],
+              "id": "96700f84-ffda-4201-92da-f966a4d25658"
+            },
+            {
+              "date": "2025-12-01",
+              "shiftid": "24d77366-7ef1-40d0-9d29-e094d759b03f",
+              "shiftdata": [
+                {
+                  "shiftstarttime": null,
+                  "shiftendtime": null,
+                  "shiftname": "Third Shift",
+                  "id": "67ad836d-112d-4354-a95d-8f2a7144e3ad"
+                },
+                {
+                  "shiftstarttime": null,
+                  "shiftendtime": null,
+                  "shiftname": "First Shift",
+                  "id": "0b947677-ad5c-406c-9164-f6a372fae344"
+                },
+                {
+                  "shiftstarttime": null,
+                  "shiftendtime": null,
+                  "shiftname": "Second Shift",
+                  "id": "24d77366-7ef1-40d0-9d29-e094d759b03f"
+                }
+              ],
+              "id": "ab4d14d7-db29-457f-9638-ce77f8bb41c8"
+            },
+            {
+              "date": "2026-05-01",
+              "shiftid": "67ad836d-112d-4354-a95d-8f2a7144e3ad",
+              "shiftdata": [
+                {
+                  "shiftstarttime": null,
+                  "shiftendtime": null,
+                  "shiftname": "Third Shift",
+                  "id": "67ad836d-112d-4354-a95d-8f2a7144e3ad"
+                },
+                {
+                  "shiftstarttime": null,
+                  "shiftendtime": null,
+                  "shiftname": "First Shift",
+                  "id": "0b947677-ad5c-406c-9164-f6a372fae344"
+                },
+                {
+                  "shiftstarttime": null,
+                  "shiftendtime": null,
+                  "shiftname": "Second Shift",
+                  "id": "24d77366-7ef1-40d0-9d29-e094d759b03f"
+                }
+              ],
+              "id": "5ed92358-6eb2-4e41-8bb2-40f143deabab"
+            },
+            {
+              "date": "2026-05-01",
+              "shiftid": "24d77366-7ef1-40d0-9d29-e094d759b03f",
+              "shiftdata": [
+                {
+                  "shiftstarttime": null,
+                  "shiftendtime": null,
+                  "shiftname": "Third Shift",
+                  "id": "67ad836d-112d-4354-a95d-8f2a7144e3ad"
+                },
+                {
+                  "shiftstarttime": null,
+                  "shiftendtime": null,
+                  "shiftname": "First Shift",
+                  "id": "0b947677-ad5c-406c-9164-f6a372fae344"
+                },
+                {
+                  "shiftstarttime": null,
+                  "shiftendtime": null,
+                  "shiftname": "Second Shift",
+                  "id": "24d77366-7ef1-40d0-9d29-e094d759b03f"
+                }
+              ],
+              "id": "14f8c8fe-7db2-4ff5-8245-47932d2103db"
+            }
+          ],
+          "id": "660fb9782aacbd33a4a6d253",
+          "date": "2026-07-13T07:59:17.948Z",
+          "employeename": "Naveen",
+          "employeenumber": "EMP-106"
+        },
+        "tsDate": "2026-07-13T07:59:17.948Z",
+        "exception": null,
+        "key": "660fb9782aacbd33a4a6d253",
+        "groupBy": null
+      },
+      {
+        "jsonData": {
+          "role": "lakshmeesha.r@reactore.com",
+          "Details": [
+            {
+              "date": "2025-07-01",
+              "shiftid": "0b947677-ad5c-406c-9164-f6a372fae344",
+              "shiftdata": [
+                {
+                  "shiftstarttime": null,
+                  "shiftendtime": null,
+                  "shiftname": "Third Shift",
+                  "id": "67ad836d-112d-4354-a95d-8f2a7144e3ad"
+                },
+                {
+                  "shiftstarttime": null,
+                  "shiftendtime": null,
+                  "shiftname": "First Shift",
+                  "id": "0b947677-ad5c-406c-9164-f6a372fae344"
+                },
+                {
+                  "shiftstarttime": null,
+                  "shiftendtime": null,
+                  "shiftname": "Second Shift",
+                  "id": "24d77366-7ef1-40d0-9d29-e094d759b03f"
+                }
+              ],
+              "id": "18a2287f-ef74-4663-adb8-b07019f133f1"
+            },
+            {
+              "date": "2025-07-01",
+              "shiftid": "0b947677-ad5c-406c-9164-f6a372fae344",
+              "shiftdata": [
+                {
+                  "shiftstarttime": null,
+                  "shiftendtime": null,
+                  "shiftname": "Third Shift",
+                  "id": "67ad836d-112d-4354-a95d-8f2a7144e3ad"
+                },
+                {
+                  "shiftstarttime": null,
+                  "shiftendtime": null,
+                  "shiftname": "First Shift",
+                  "id": "0b947677-ad5c-406c-9164-f6a372fae344"
+                },
+                {
+                  "shiftstarttime": null,
+                  "shiftendtime": null,
+                  "shiftname": "Second Shift",
+                  "id": "24d77366-7ef1-40d0-9d29-e094d759b03f"
+                }
+              ],
+              "id": "db68dbdb-888d-4256-8a7f-b17196016998"
+            },
+            {
+              "date": "2025-07-01",
+              "shiftid": "0b947677-ad5c-406c-9164-f6a372fae344",
+              "shiftdata": [
+                {
+                  "shiftstarttime": null,
+                  "shiftendtime": null,
+                  "shiftname": "Third Shift",
+                  "id": "67ad836d-112d-4354-a95d-8f2a7144e3ad"
+                },
+                {
+                  "shiftstarttime": null,
+                  "shiftendtime": null,
+                  "shiftname": "First Shift",
+                  "id": "0b947677-ad5c-406c-9164-f6a372fae344"
+                },
+                {
+                  "shiftstarttime": null,
+                  "shiftendtime": null,
+                  "shiftname": "Second Shift",
+                  "id": "24d77366-7ef1-40d0-9d29-e094d759b03f"
+                }
+              ],
+              "id": "de107e1a-631d-4a3d-859d-af8dc31d53b3"
+            },
+            {
+              "date": "2025-07-01",
+              "shiftid": "24d77366-7ef1-40d0-9d29-e094d759b03f",
+              "shiftdata": [
+                {
+                  "shiftstarttime": null,
+                  "shiftendtime": null,
+                  "shiftname": "Third Shift",
+                  "id": "67ad836d-112d-4354-a95d-8f2a7144e3ad"
+                },
+                {
+                  "shiftstarttime": null,
+                  "shiftendtime": null,
+                  "shiftname": "First Shift",
+                  "id": "0b947677-ad5c-406c-9164-f6a372fae344"
+                },
+                {
+                  "shiftstarttime": null,
+                  "shiftendtime": null,
+                  "shiftname": "Second Shift",
+                  "id": "24d77366-7ef1-40d0-9d29-e094d759b03f"
+                }
+              ],
+              "id": "be5090b6-096b-41c2-9764-9236839fabb2"
+            },
+            {
+              "date": "2025-07-01",
+              "shiftid": "24d77366-7ef1-40d0-9d29-e094d759b03f",
+              "shiftdata": [
+                {
+                  "shiftstarttime": null,
+                  "shiftendtime": null,
+                  "shiftname": "Third Shift",
+                  "id": "67ad836d-112d-4354-a95d-8f2a7144e3ad"
+                },
+                {
+                  "shiftstarttime": null,
+                  "shiftendtime": null,
+                  "shiftname": "First Shift",
+                  "id": "0b947677-ad5c-406c-9164-f6a372fae344"
+                },
+                {
+                  "shiftstarttime": null,
+                  "shiftendtime": null,
+                  "shiftname": "Second Shift",
+                  "id": "24d77366-7ef1-40d0-9d29-e094d759b03f"
+                }
+              ],
+              "id": "87fdd54b-233a-4f15-bd4b-0f837a157f50"
+            },
+            {
+              "date": "2025-07-01",
+              "shiftid": "24d77366-7ef1-40d0-9d29-e094d759b03f",
+              "shiftdata": [
+                {
+                  "shiftstarttime": null,
+                  "shiftendtime": null,
+                  "shiftname": "Third Shift",
+                  "id": "67ad836d-112d-4354-a95d-8f2a7144e3ad"
+                },
+                {
+                  "shiftstarttime": null,
+                  "shiftendtime": null,
+                  "shiftname": "First Shift",
+                  "id": "0b947677-ad5c-406c-9164-f6a372fae344"
+                },
+                {
+                  "shiftstarttime": null,
+                  "shiftendtime": null,
+                  "shiftname": "Second Shift",
+                  "id": "24d77366-7ef1-40d0-9d29-e094d759b03f"
+                }
+              ],
+              "id": "bd92e1f5-e522-4a78-9698-4a6ae0e5ad2a"
+            },
+            {
+              "date": "2025-06-01",
+              "shiftid": "0b947677-ad5c-406c-9164-f6a372fae344",
+              "shiftdata": [
+                {
+                  "shiftstarttime": null,
+                  "shiftendtime": null,
+                  "shiftname": "Third Shift",
+                  "id": "67ad836d-112d-4354-a95d-8f2a7144e3ad"
+                },
+                {
+                  "shiftstarttime": null,
+                  "shiftendtime": null,
+                  "shiftname": "First Shift",
+                  "id": "0b947677-ad5c-406c-9164-f6a372fae344"
+                },
+                {
+                  "shiftstarttime": null,
+                  "shiftendtime": null,
+                  "shiftname": "Second Shift",
+                  "id": "24d77366-7ef1-40d0-9d29-e094d759b03f"
+                }
+              ],
+              "id": "28d10563-6c07-4ef5-b793-89febaf77dd4"
+            },
+            {
+              "date": "2025-06-01",
+              "shiftid": "67ad836d-112d-4354-a95d-8f2a7144e3ad",
+              "shiftdata": [
+                {
+                  "shiftstarttime": null,
+                  "shiftendtime": null,
+                  "shiftname": "Third Shift",
+                  "id": "67ad836d-112d-4354-a95d-8f2a7144e3ad"
+                },
+                {
+                  "shiftstarttime": null,
+                  "shiftendtime": null,
+                  "shiftname": "First Shift",
+                  "id": "0b947677-ad5c-406c-9164-f6a372fae344"
+                },
+                {
+                  "shiftstarttime": null,
+                  "shiftendtime": null,
+                  "shiftname": "Second Shift",
+                  "id": "24d77366-7ef1-40d0-9d29-e094d759b03f"
+                }
+              ],
+              "id": "5ab95dfa-62c7-4ec2-b243-0bc29eac9a46"
+            },
+            {
+              "date": "2025-07-01",
+              "shiftid": "24d77366-7ef1-40d0-9d29-e094d759b03f",
+              "shiftdata": [
+                {
+                  "shiftstarttime": null,
+                  "shiftendtime": null,
+                  "shiftname": "Third Shift",
+                  "id": "67ad836d-112d-4354-a95d-8f2a7144e3ad"
+                },
+                {
+                  "shiftstarttime": null,
+                  "shiftendtime": null,
+                  "shiftname": "First Shift",
+                  "id": "0b947677-ad5c-406c-9164-f6a372fae344"
+                },
+                {
+                  "shiftstarttime": null,
+                  "shiftendtime": null,
+                  "shiftname": "Second Shift",
+                  "id": "24d77366-7ef1-40d0-9d29-e094d759b03f"
+                }
+              ],
+              "id": "9c8d5148-bfc1-492c-99dd-6835f3a1fe6e"
+            },
+            {
+              "date": "2025-09-01",
+              "shiftid": "67ad836d-112d-4354-a95d-8f2a7144e3ad",
+              "shiftdata": [
+                {
+                  "shiftstarttime": null,
+                  "shiftendtime": null,
+                  "shiftname": "Third Shift",
+                  "id": "67ad836d-112d-4354-a95d-8f2a7144e3ad"
+                },
+                {
+                  "shiftstarttime": null,
+                  "shiftendtime": null,
+                  "shiftname": "First Shift",
+                  "id": "0b947677-ad5c-406c-9164-f6a372fae344"
+                },
+                {
+                  "shiftstarttime": null,
+                  "shiftendtime": null,
+                  "shiftname": "Second Shift",
+                  "id": "24d77366-7ef1-40d0-9d29-e094d759b03f"
+                }
+              ],
+              "id": "fa3a937c-1a6e-467e-9c0b-ef7fb0dea600"
+            },
+            {
+              "date": "2025-08-26",
+              "shiftid": "67ad836d-112d-4354-a95d-8f2a7144e3ad",
+              "shiftdata": [
+                {
+                  "shiftstarttime": null,
+                  "shiftendtime": null,
+                  "shiftname": "Third Shift",
+                  "id": "67ad836d-112d-4354-a95d-8f2a7144e3ad"
+                },
+                {
+                  "shiftstarttime": null,
+                  "shiftendtime": null,
+                  "shiftname": "First Shift",
+                  "id": "0b947677-ad5c-406c-9164-f6a372fae344"
+                },
+                {
+                  "shiftstarttime": null,
+                  "shiftendtime": null,
+                  "shiftname": "Second Shift",
+                  "id": "24d77366-7ef1-40d0-9d29-e094d759b03f"
+                }
+              ],
+              "id": "1ae47d9b-ec20-49a0-b378-3752310c4083"
+            },
+            {
+              "date": "2025-08-28",
+              "shiftid": "67ad836d-112d-4354-a95d-8f2a7144e3ad",
+              "shiftdata": [
+                {
+                  "shiftstarttime": null,
+                  "shiftendtime": null,
+                  "shiftname": "Third Shift",
+                  "id": "67ad836d-112d-4354-a95d-8f2a7144e3ad"
+                },
+                {
+                  "shiftstarttime": null,
+                  "shiftendtime": null,
+                  "shiftname": "First Shift",
+                  "id": "0b947677-ad5c-406c-9164-f6a372fae344"
+                },
+                {
+                  "shiftstarttime": null,
+                  "shiftendtime": null,
+                  "shiftname": "Second Shift",
+                  "id": "24d77366-7ef1-40d0-9d29-e094d759b03f"
+                }
+              ],
+              "id": "573d4035-67bf-44e7-aff8-9cb47005f0dd"
+            },
+            {
+              "date": "2025-09-17",
+              "shiftid": "67ad836d-112d-4354-a95d-8f2a7144e3ad",
+              "shiftdata": [
+                {
+                  "shiftstarttime": null,
+                  "shiftendtime": null,
+                  "shiftname": "Third Shift",
+                  "id": "67ad836d-112d-4354-a95d-8f2a7144e3ad"
+                },
+                {
+                  "shiftstarttime": null,
+                  "shiftendtime": null,
+                  "shiftname": "First Shift",
+                  "id": "0b947677-ad5c-406c-9164-f6a372fae344"
+                },
+                {
+                  "shiftstarttime": null,
+                  "shiftendtime": null,
+                  "shiftname": "Second Shift",
+                  "id": "24d77366-7ef1-40d0-9d29-e094d759b03f"
+                }
+              ],
+              "id": "148ecb13-fcd9-4b18-af86-ea5de22dd9b3"
+            },
+            {
+              "date": "2025-09-17",
+              "shiftid": "67ad836d-112d-4354-a95d-8f2a7144e3ad",
+              "shiftdata": [
+                {
+                  "shiftstarttime": null,
+                  "shiftendtime": null,
+                  "shiftname": "Third Shift",
+                  "id": "67ad836d-112d-4354-a95d-8f2a7144e3ad"
+                },
+                {
+                  "shiftstarttime": null,
+                  "shiftendtime": null,
+                  "shiftname": "First Shift",
+                  "id": "0b947677-ad5c-406c-9164-f6a372fae344"
+                },
+                {
+                  "shiftstarttime": null,
+                  "shiftendtime": null,
+                  "shiftname": "Second Shift",
+                  "id": "24d77366-7ef1-40d0-9d29-e094d759b03f"
+                }
+              ],
+              "id": "68963943-4744-498f-ba17-9c502c45eba4"
+            },
+            {
+              "date": "2025-10-01",
+              "shiftid": "67ad836d-112d-4354-a95d-8f2a7144e3ad",
+              "shiftdata": [
+                {
+                  "shiftstarttime": null,
+                  "shiftendtime": null,
+                  "shiftname": "Third Shift",
+                  "id": "67ad836d-112d-4354-a95d-8f2a7144e3ad"
+                },
+                {
+                  "shiftstarttime": null,
+                  "shiftendtime": null,
+                  "shiftname": "First Shift",
+                  "id": "0b947677-ad5c-406c-9164-f6a372fae344"
+                },
+                {
+                  "shiftstarttime": null,
+                  "shiftendtime": null,
+                  "shiftname": "Second Shift",
+                  "id": "24d77366-7ef1-40d0-9d29-e094d759b03f"
+                }
+              ],
+              "id": "b11165d9-d5ea-430d-b7c5-560990625055"
+            },
+            {
+              "date": "2025-10-01",
+              "shiftid": "67ad836d-112d-4354-a95d-8f2a7144e3ad",
+              "shiftdata": [
+                {
+                  "shiftstarttime": null,
+                  "shiftendtime": null,
+                  "shiftname": "Third Shift",
+                  "id": "67ad836d-112d-4354-a95d-8f2a7144e3ad"
+                },
+                {
+                  "shiftstarttime": null,
+                  "shiftendtime": null,
+                  "shiftname": "First Shift",
+                  "id": "0b947677-ad5c-406c-9164-f6a372fae344"
+                },
+                {
+                  "shiftstarttime": null,
+                  "shiftendtime": null,
+                  "shiftname": "Second Shift",
+                  "id": "24d77366-7ef1-40d0-9d29-e094d759b03f"
+                }
+              ],
+              "id": "bf15ff75-413b-40e6-9c8b-884fb994d952"
+            },
+            {
+              "date": "2025-10-01",
+              "shiftid": "67ad836d-112d-4354-a95d-8f2a7144e3ad",
+              "shiftdata": [
+                {
+                  "shiftstarttime": null,
+                  "shiftendtime": null,
+                  "shiftname": "Third Shift",
+                  "id": "67ad836d-112d-4354-a95d-8f2a7144e3ad"
+                },
+                {
+                  "shiftstarttime": null,
+                  "shiftendtime": null,
+                  "shiftname": "First Shift",
+                  "id": "0b947677-ad5c-406c-9164-f6a372fae344"
+                },
+                {
+                  "shiftstarttime": null,
+                  "shiftendtime": null,
+                  "shiftname": "Second Shift",
+                  "id": "24d77366-7ef1-40d0-9d29-e094d759b03f"
+                }
+              ],
+              "id": "147e9bc2-0033-4279-a972-716d02ed4ae8"
+            },
+            {
+              "date": "2025-11-01",
+              "shiftid": "24d77366-7ef1-40d0-9d29-e094d759b03f",
+              "shiftdata": [
+                {
+                  "shiftstarttime": null,
+                  "shiftendtime": null,
+                  "shiftname": "Third Shift",
+                  "id": "67ad836d-112d-4354-a95d-8f2a7144e3ad"
+                },
+                {
+                  "shiftstarttime": null,
+                  "shiftendtime": null,
+                  "shiftname": "First Shift",
+                  "id": "0b947677-ad5c-406c-9164-f6a372fae344"
+                },
+                {
+                  "shiftstarttime": null,
+                  "shiftendtime": null,
+                  "shiftname": "Second Shift",
+                  "id": "24d77366-7ef1-40d0-9d29-e094d759b03f"
+                }
+              ],
+              "id": "0ed771b4-0fb8-4979-9d66-257ed4dab2b9"
+            },
+            {
+              "date": "2025-11-01",
+              "shiftid": "24d77366-7ef1-40d0-9d29-e094d759b03f",
+              "shiftdata": [
+                {
+                  "shiftstarttime": null,
+                  "shiftendtime": null,
+                  "shiftname": "Third Shift",
+                  "id": "67ad836d-112d-4354-a95d-8f2a7144e3ad"
+                },
+                {
+                  "shiftstarttime": null,
+                  "shiftendtime": null,
+                  "shiftname": "First Shift",
+                  "id": "0b947677-ad5c-406c-9164-f6a372fae344"
+                },
+                {
+                  "shiftstarttime": null,
+                  "shiftendtime": null,
+                  "shiftname": "Second Shift",
+                  "id": "24d77366-7ef1-40d0-9d29-e094d759b03f"
+                }
+              ],
+              "id": "322afcf2-6056-4da0-adac-dc048ff3eee9"
+            },
+            {
+              "date": "2025-11-01",
+              "shiftid": "24d77366-7ef1-40d0-9d29-e094d759b03f",
+              "shiftdata": [
+                {
+                  "shiftstarttime": null,
+                  "shiftendtime": null,
+                  "shiftname": "Third Shift",
+                  "id": "67ad836d-112d-4354-a95d-8f2a7144e3ad"
+                },
+                {
+                  "shiftstarttime": null,
+                  "shiftendtime": null,
+                  "shiftname": "First Shift",
+                  "id": "0b947677-ad5c-406c-9164-f6a372fae344"
+                },
+                {
+                  "shiftstarttime": null,
+                  "shiftendtime": null,
+                  "shiftname": "Second Shift",
+                  "id": "24d77366-7ef1-40d0-9d29-e094d759b03f"
+                }
+              ],
+              "id": "3a300de7-10b6-4e7d-b1c9-9dbe07b7c875"
+            },
+            {
+              "date": "2025-11-01",
+              "shiftid": "24d77366-7ef1-40d0-9d29-e094d759b03f",
+              "shiftdata": [
+                {
+                  "shiftstarttime": null,
+                  "shiftendtime": null,
+                  "shiftname": "Third Shift",
+                  "id": "67ad836d-112d-4354-a95d-8f2a7144e3ad"
+                },
+                {
+                  "shiftstarttime": null,
+                  "shiftendtime": null,
+                  "shiftname": "First Shift",
+                  "id": "0b947677-ad5c-406c-9164-f6a372fae344"
+                },
+                {
+                  "shiftstarttime": null,
+                  "shiftendtime": null,
+                  "shiftname": "Second Shift",
+                  "id": "24d77366-7ef1-40d0-9d29-e094d759b03f"
+                }
+              ],
+              "id": "d5d01fec-7cb3-4376-9743-9b83a110d309"
+            },
+            {
+              "date": "2025-12-01",
+              "shiftid": "24d77366-7ef1-40d0-9d29-e094d759b03f",
+              "shiftdata": [
+                {
+                  "shiftstarttime": null,
+                  "shiftendtime": null,
+                  "shiftname": "Third Shift",
+                  "id": "67ad836d-112d-4354-a95d-8f2a7144e3ad"
+                },
+                {
+                  "shiftstarttime": null,
+                  "shiftendtime": null,
+                  "shiftname": "First Shift",
+                  "id": "0b947677-ad5c-406c-9164-f6a372fae344"
+                },
+                {
+                  "shiftstarttime": null,
+                  "shiftendtime": null,
+                  "shiftname": "Second Shift",
+                  "id": "24d77366-7ef1-40d0-9d29-e094d759b03f"
+                }
+              ],
+              "id": "96700f84-ffda-4201-92da-f966a4d25658"
+            },
+            {
+              "date": "2025-12-01",
+              "shiftid": "24d77366-7ef1-40d0-9d29-e094d759b03f",
+              "shiftdata": [
+                {
+                  "shiftstarttime": null,
+                  "shiftendtime": null,
+                  "shiftname": "Third Shift",
+                  "id": "67ad836d-112d-4354-a95d-8f2a7144e3ad"
+                },
+                {
+                  "shiftstarttime": null,
+                  "shiftendtime": null,
+                  "shiftname": "First Shift",
+                  "id": "0b947677-ad5c-406c-9164-f6a372fae344"
+                },
+                {
+                  "shiftstarttime": null,
+                  "shiftendtime": null,
+                  "shiftname": "Second Shift",
+                  "id": "24d77366-7ef1-40d0-9d29-e094d759b03f"
+                }
+              ],
+              "id": "ab4d14d7-db29-457f-9638-ce77f8bb41c8"
+            },
+            {
+              "date": "2026-05-01",
+              "shiftid": "67ad836d-112d-4354-a95d-8f2a7144e3ad",
+              "shiftdata": [
+                {
+                  "shiftstarttime": null,
+                  "shiftendtime": null,
+                  "shiftname": "Third Shift",
+                  "id": "67ad836d-112d-4354-a95d-8f2a7144e3ad"
+                },
+                {
+                  "shiftstarttime": null,
+                  "shiftendtime": null,
+                  "shiftname": "First Shift",
+                  "id": "0b947677-ad5c-406c-9164-f6a372fae344"
+                },
+                {
+                  "shiftstarttime": null,
+                  "shiftendtime": null,
+                  "shiftname": "Second Shift",
+                  "id": "24d77366-7ef1-40d0-9d29-e094d759b03f"
+                }
+              ],
+              "id": "5ed92358-6eb2-4e41-8bb2-40f143deabab"
+            },
+            {
+              "date": "2026-05-01",
+              "shiftid": "24d77366-7ef1-40d0-9d29-e094d759b03f",
+              "shiftdata": [
+                {
+                  "shiftstarttime": null,
+                  "shiftendtime": null,
+                  "shiftname": "Third Shift",
+                  "id": "67ad836d-112d-4354-a95d-8f2a7144e3ad"
+                },
+                {
+                  "shiftstarttime": null,
+                  "shiftendtime": null,
+                  "shiftname": "First Shift",
+                  "id": "0b947677-ad5c-406c-9164-f6a372fae344"
+                },
+                {
+                  "shiftstarttime": null,
+                  "shiftendtime": null,
+                  "shiftname": "Second Shift",
+                  "id": "24d77366-7ef1-40d0-9d29-e094d759b03f"
+                }
+              ],
+              "id": "14f8c8fe-7db2-4ff5-8245-47932d2103db"
+            }
+          ],
+          "id": "660fb9a12aacbd33a4a6d255",
+          "date": "2026-07-13T07:59:20.263Z",
+          "employeename": "Lakshmeesha",
+          "employeenumber": "EMP-105"
+        },
+        "tsDate": "2026-07-13T07:59:20.263Z",
+        "exception": null,
+        "key": "660fb9a12aacbd33a4a6d255",
+        "groupBy": null
+      },
+      {
+        "jsonData": {
+          "role": "rakesh.m@reactore.com",
+          "Details": [
+            {
+              "date": "2025-07-01",
+              "shiftid": "0b947677-ad5c-406c-9164-f6a372fae344",
+              "shiftdata": [
+                {
+                  "shiftstarttime": null,
+                  "shiftendtime": null,
+                  "shiftname": "Third Shift",
+                  "id": "67ad836d-112d-4354-a95d-8f2a7144e3ad"
+                },
+                {
+                  "shiftstarttime": null,
+                  "shiftendtime": null,
+                  "shiftname": "First Shift",
+                  "id": "0b947677-ad5c-406c-9164-f6a372fae344"
+                },
+                {
+                  "shiftstarttime": null,
+                  "shiftendtime": null,
+                  "shiftname": "Second Shift",
+                  "id": "24d77366-7ef1-40d0-9d29-e094d759b03f"
+                }
+              ],
+              "id": "18a2287f-ef74-4663-adb8-b07019f133f1"
+            },
+            {
+              "date": "2025-07-01",
+              "shiftid": "0b947677-ad5c-406c-9164-f6a372fae344",
+              "shiftdata": [
+                {
+                  "shiftstarttime": null,
+                  "shiftendtime": null,
+                  "shiftname": "Third Shift",
+                  "id": "67ad836d-112d-4354-a95d-8f2a7144e3ad"
+                },
+                {
+                  "shiftstarttime": null,
+                  "shiftendtime": null,
+                  "shiftname": "First Shift",
+                  "id": "0b947677-ad5c-406c-9164-f6a372fae344"
+                },
+                {
+                  "shiftstarttime": null,
+                  "shiftendtime": null,
+                  "shiftname": "Second Shift",
+                  "id": "24d77366-7ef1-40d0-9d29-e094d759b03f"
+                }
+              ],
+              "id": "db68dbdb-888d-4256-8a7f-b17196016998"
+            },
+            {
+              "date": "2025-07-01",
+              "shiftid": "0b947677-ad5c-406c-9164-f6a372fae344",
+              "shiftdata": [
+                {
+                  "shiftstarttime": null,
+                  "shiftendtime": null,
+                  "shiftname": "Third Shift",
+                  "id": "67ad836d-112d-4354-a95d-8f2a7144e3ad"
+                },
+                {
+                  "shiftstarttime": null,
+                  "shiftendtime": null,
+                  "shiftname": "First Shift",
+                  "id": "0b947677-ad5c-406c-9164-f6a372fae344"
+                },
+                {
+                  "shiftstarttime": null,
+                  "shiftendtime": null,
+                  "shiftname": "Second Shift",
+                  "id": "24d77366-7ef1-40d0-9d29-e094d759b03f"
+                }
+              ],
+              "id": "de107e1a-631d-4a3d-859d-af8dc31d53b3"
+            },
+            {
+              "date": "2025-07-01",
+              "shiftid": "24d77366-7ef1-40d0-9d29-e094d759b03f",
+              "shiftdata": [
+                {
+                  "shiftstarttime": null,
+                  "shiftendtime": null,
+                  "shiftname": "Third Shift",
+                  "id": "67ad836d-112d-4354-a95d-8f2a7144e3ad"
+                },
+                {
+                  "shiftstarttime": null,
+                  "shiftendtime": null,
+                  "shiftname": "First Shift",
+                  "id": "0b947677-ad5c-406c-9164-f6a372fae344"
+                },
+                {
+                  "shiftstarttime": null,
+                  "shiftendtime": null,
+                  "shiftname": "Second Shift",
+                  "id": "24d77366-7ef1-40d0-9d29-e094d759b03f"
+                }
+              ],
+              "id": "be5090b6-096b-41c2-9764-9236839fabb2"
+            },
+            {
+              "date": "2025-07-01",
+              "shiftid": "24d77366-7ef1-40d0-9d29-e094d759b03f",
+              "shiftdata": [
+                {
+                  "shiftstarttime": null,
+                  "shiftendtime": null,
+                  "shiftname": "Third Shift",
+                  "id": "67ad836d-112d-4354-a95d-8f2a7144e3ad"
+                },
+                {
+                  "shiftstarttime": null,
+                  "shiftendtime": null,
+                  "shiftname": "First Shift",
+                  "id": "0b947677-ad5c-406c-9164-f6a372fae344"
+                },
+                {
+                  "shiftstarttime": null,
+                  "shiftendtime": null,
+                  "shiftname": "Second Shift",
+                  "id": "24d77366-7ef1-40d0-9d29-e094d759b03f"
+                }
+              ],
+              "id": "87fdd54b-233a-4f15-bd4b-0f837a157f50"
+            },
+            {
+              "date": "2025-07-01",
+              "shiftid": "24d77366-7ef1-40d0-9d29-e094d759b03f",
+              "shiftdata": [
+                {
+                  "shiftstarttime": null,
+                  "shiftendtime": null,
+                  "shiftname": "Third Shift",
+                  "id": "67ad836d-112d-4354-a95d-8f2a7144e3ad"
+                },
+                {
+                  "shiftstarttime": null,
+                  "shiftendtime": null,
+                  "shiftname": "First Shift",
+                  "id": "0b947677-ad5c-406c-9164-f6a372fae344"
+                },
+                {
+                  "shiftstarttime": null,
+                  "shiftendtime": null,
+                  "shiftname": "Second Shift",
+                  "id": "24d77366-7ef1-40d0-9d29-e094d759b03f"
+                }
+              ],
+              "id": "bd92e1f5-e522-4a78-9698-4a6ae0e5ad2a"
+            },
+            {
+              "date": "2025-06-01",
+              "shiftid": "0b947677-ad5c-406c-9164-f6a372fae344",
+              "shiftdata": [
+                {
+                  "shiftstarttime": null,
+                  "shiftendtime": null,
+                  "shiftname": "Third Shift",
+                  "id": "67ad836d-112d-4354-a95d-8f2a7144e3ad"
+                },
+                {
+                  "shiftstarttime": null,
+                  "shiftendtime": null,
+                  "shiftname": "First Shift",
+                  "id": "0b947677-ad5c-406c-9164-f6a372fae344"
+                },
+                {
+                  "shiftstarttime": null,
+                  "shiftendtime": null,
+                  "shiftname": "Second Shift",
+                  "id": "24d77366-7ef1-40d0-9d29-e094d759b03f"
+                }
+              ],
+              "id": "28d10563-6c07-4ef5-b793-89febaf77dd4"
+            },
+            {
+              "date": "2025-06-01",
+              "shiftid": "67ad836d-112d-4354-a95d-8f2a7144e3ad",
+              "shiftdata": [
+                {
+                  "shiftstarttime": null,
+                  "shiftendtime": null,
+                  "shiftname": "Third Shift",
+                  "id": "67ad836d-112d-4354-a95d-8f2a7144e3ad"
+                },
+                {
+                  "shiftstarttime": null,
+                  "shiftendtime": null,
+                  "shiftname": "First Shift",
+                  "id": "0b947677-ad5c-406c-9164-f6a372fae344"
+                },
+                {
+                  "shiftstarttime": null,
+                  "shiftendtime": null,
+                  "shiftname": "Second Shift",
+                  "id": "24d77366-7ef1-40d0-9d29-e094d759b03f"
+                }
+              ],
+              "id": "5ab95dfa-62c7-4ec2-b243-0bc29eac9a46"
+            },
+            {
+              "date": "2025-07-01",
+              "shiftid": "24d77366-7ef1-40d0-9d29-e094d759b03f",
+              "shiftdata": [
+                {
+                  "shiftstarttime": null,
+                  "shiftendtime": null,
+                  "shiftname": "Third Shift",
+                  "id": "67ad836d-112d-4354-a95d-8f2a7144e3ad"
+                },
+                {
+                  "shiftstarttime": null,
+                  "shiftendtime": null,
+                  "shiftname": "First Shift",
+                  "id": "0b947677-ad5c-406c-9164-f6a372fae344"
+                },
+                {
+                  "shiftstarttime": null,
+                  "shiftendtime": null,
+                  "shiftname": "Second Shift",
+                  "id": "24d77366-7ef1-40d0-9d29-e094d759b03f"
+                }
+              ],
+              "id": "9c8d5148-bfc1-492c-99dd-6835f3a1fe6e"
+            },
+            {
+              "date": "2025-09-01",
+              "shiftid": "67ad836d-112d-4354-a95d-8f2a7144e3ad",
+              "shiftdata": [
+                {
+                  "shiftstarttime": null,
+                  "shiftendtime": null,
+                  "shiftname": "Third Shift",
+                  "id": "67ad836d-112d-4354-a95d-8f2a7144e3ad"
+                },
+                {
+                  "shiftstarttime": null,
+                  "shiftendtime": null,
+                  "shiftname": "First Shift",
+                  "id": "0b947677-ad5c-406c-9164-f6a372fae344"
+                },
+                {
+                  "shiftstarttime": null,
+                  "shiftendtime": null,
+                  "shiftname": "Second Shift",
+                  "id": "24d77366-7ef1-40d0-9d29-e094d759b03f"
+                }
+              ],
+              "id": "fa3a937c-1a6e-467e-9c0b-ef7fb0dea600"
+            },
+            {
+              "date": "2025-08-26",
+              "shiftid": "67ad836d-112d-4354-a95d-8f2a7144e3ad",
+              "shiftdata": [
+                {
+                  "shiftstarttime": null,
+                  "shiftendtime": null,
+                  "shiftname": "Third Shift",
+                  "id": "67ad836d-112d-4354-a95d-8f2a7144e3ad"
+                },
+                {
+                  "shiftstarttime": null,
+                  "shiftendtime": null,
+                  "shiftname": "First Shift",
+                  "id": "0b947677-ad5c-406c-9164-f6a372fae344"
+                },
+                {
+                  "shiftstarttime": null,
+                  "shiftendtime": null,
+                  "shiftname": "Second Shift",
+                  "id": "24d77366-7ef1-40d0-9d29-e094d759b03f"
+                }
+              ],
+              "id": "1ae47d9b-ec20-49a0-b378-3752310c4083"
+            },
+            {
+              "date": "2025-08-28",
+              "shiftid": "67ad836d-112d-4354-a95d-8f2a7144e3ad",
+              "shiftdata": [
+                {
+                  "shiftstarttime": null,
+                  "shiftendtime": null,
+                  "shiftname": "Third Shift",
+                  "id": "67ad836d-112d-4354-a95d-8f2a7144e3ad"
+                },
+                {
+                  "shiftstarttime": null,
+                  "shiftendtime": null,
+                  "shiftname": "First Shift",
+                  "id": "0b947677-ad5c-406c-9164-f6a372fae344"
+                },
+                {
+                  "shiftstarttime": null,
+                  "shiftendtime": null,
+                  "shiftname": "Second Shift",
+                  "id": "24d77366-7ef1-40d0-9d29-e094d759b03f"
+                }
+              ],
+              "id": "573d4035-67bf-44e7-aff8-9cb47005f0dd"
+            },
+            {
+              "date": "2025-09-17",
+              "shiftid": "67ad836d-112d-4354-a95d-8f2a7144e3ad",
+              "shiftdata": [
+                {
+                  "shiftstarttime": null,
+                  "shiftendtime": null,
+                  "shiftname": "Third Shift",
+                  "id": "67ad836d-112d-4354-a95d-8f2a7144e3ad"
+                },
+                {
+                  "shiftstarttime": null,
+                  "shiftendtime": null,
+                  "shiftname": "First Shift",
+                  "id": "0b947677-ad5c-406c-9164-f6a372fae344"
+                },
+                {
+                  "shiftstarttime": null,
+                  "shiftendtime": null,
+                  "shiftname": "Second Shift",
+                  "id": "24d77366-7ef1-40d0-9d29-e094d759b03f"
+                }
+              ],
+              "id": "148ecb13-fcd9-4b18-af86-ea5de22dd9b3"
+            },
+            {
+              "date": "2025-09-17",
+              "shiftid": "67ad836d-112d-4354-a95d-8f2a7144e3ad",
+              "shiftdata": [
+                {
+                  "shiftstarttime": null,
+                  "shiftendtime": null,
+                  "shiftname": "Third Shift",
+                  "id": "67ad836d-112d-4354-a95d-8f2a7144e3ad"
+                },
+                {
+                  "shiftstarttime": null,
+                  "shiftendtime": null,
+                  "shiftname": "First Shift",
+                  "id": "0b947677-ad5c-406c-9164-f6a372fae344"
+                },
+                {
+                  "shiftstarttime": null,
+                  "shiftendtime": null,
+                  "shiftname": "Second Shift",
+                  "id": "24d77366-7ef1-40d0-9d29-e094d759b03f"
+                }
+              ],
+              "id": "68963943-4744-498f-ba17-9c502c45eba4"
+            },
+            {
+              "date": "2025-10-01",
+              "shiftid": "67ad836d-112d-4354-a95d-8f2a7144e3ad",
+              "shiftdata": [
+                {
+                  "shiftstarttime": null,
+                  "shiftendtime": null,
+                  "shiftname": "Third Shift",
+                  "id": "67ad836d-112d-4354-a95d-8f2a7144e3ad"
+                },
+                {
+                  "shiftstarttime": null,
+                  "shiftendtime": null,
+                  "shiftname": "First Shift",
+                  "id": "0b947677-ad5c-406c-9164-f6a372fae344"
+                },
+                {
+                  "shiftstarttime": null,
+                  "shiftendtime": null,
+                  "shiftname": "Second Shift",
+                  "id": "24d77366-7ef1-40d0-9d29-e094d759b03f"
+                }
+              ],
+              "id": "b11165d9-d5ea-430d-b7c5-560990625055"
+            },
+            {
+              "date": "2025-10-01",
+              "shiftid": "67ad836d-112d-4354-a95d-8f2a7144e3ad",
+              "shiftdata": [
+                {
+                  "shiftstarttime": null,
+                  "shiftendtime": null,
+                  "shiftname": "Third Shift",
+                  "id": "67ad836d-112d-4354-a95d-8f2a7144e3ad"
+                },
+                {
+                  "shiftstarttime": null,
+                  "shiftendtime": null,
+                  "shiftname": "First Shift",
+                  "id": "0b947677-ad5c-406c-9164-f6a372fae344"
+                },
+                {
+                  "shiftstarttime": null,
+                  "shiftendtime": null,
+                  "shiftname": "Second Shift",
+                  "id": "24d77366-7ef1-40d0-9d29-e094d759b03f"
+                }
+              ],
+              "id": "bf15ff75-413b-40e6-9c8b-884fb994d952"
+            },
+            {
+              "date": "2025-10-01",
+              "shiftid": "67ad836d-112d-4354-a95d-8f2a7144e3ad",
+              "shiftdata": [
+                {
+                  "shiftstarttime": null,
+                  "shiftendtime": null,
+                  "shiftname": "Third Shift",
+                  "id": "67ad836d-112d-4354-a95d-8f2a7144e3ad"
+                },
+                {
+                  "shiftstarttime": null,
+                  "shiftendtime": null,
+                  "shiftname": "First Shift",
+                  "id": "0b947677-ad5c-406c-9164-f6a372fae344"
+                },
+                {
+                  "shiftstarttime": null,
+                  "shiftendtime": null,
+                  "shiftname": "Second Shift",
+                  "id": "24d77366-7ef1-40d0-9d29-e094d759b03f"
+                }
+              ],
+              "id": "147e9bc2-0033-4279-a972-716d02ed4ae8"
+            },
+            {
+              "date": "2025-11-01",
+              "shiftid": "24d77366-7ef1-40d0-9d29-e094d759b03f",
+              "shiftdata": [
+                {
+                  "shiftstarttime": null,
+                  "shiftendtime": null,
+                  "shiftname": "Third Shift",
+                  "id": "67ad836d-112d-4354-a95d-8f2a7144e3ad"
+                },
+                {
+                  "shiftstarttime": null,
+                  "shiftendtime": null,
+                  "shiftname": "First Shift",
+                  "id": "0b947677-ad5c-406c-9164-f6a372fae344"
+                },
+                {
+                  "shiftstarttime": null,
+                  "shiftendtime": null,
+                  "shiftname": "Second Shift",
+                  "id": "24d77366-7ef1-40d0-9d29-e094d759b03f"
+                }
+              ],
+              "id": "0ed771b4-0fb8-4979-9d66-257ed4dab2b9"
+            },
+            {
+              "date": "2025-11-01",
+              "shiftid": "24d77366-7ef1-40d0-9d29-e094d759b03f",
+              "shiftdata": [
+                {
+                  "shiftstarttime": null,
+                  "shiftendtime": null,
+                  "shiftname": "Third Shift",
+                  "id": "67ad836d-112d-4354-a95d-8f2a7144e3ad"
+                },
+                {
+                  "shiftstarttime": null,
+                  "shiftendtime": null,
+                  "shiftname": "First Shift",
+                  "id": "0b947677-ad5c-406c-9164-f6a372fae344"
+                },
+                {
+                  "shiftstarttime": null,
+                  "shiftendtime": null,
+                  "shiftname": "Second Shift",
+                  "id": "24d77366-7ef1-40d0-9d29-e094d759b03f"
+                }
+              ],
+              "id": "322afcf2-6056-4da0-adac-dc048ff3eee9"
+            },
+            {
+              "date": "2025-11-01",
+              "shiftid": "24d77366-7ef1-40d0-9d29-e094d759b03f",
+              "shiftdata": [
+                {
+                  "shiftstarttime": null,
+                  "shiftendtime": null,
+                  "shiftname": "Third Shift",
+                  "id": "67ad836d-112d-4354-a95d-8f2a7144e3ad"
+                },
+                {
+                  "shiftstarttime": null,
+                  "shiftendtime": null,
+                  "shiftname": "First Shift",
+                  "id": "0b947677-ad5c-406c-9164-f6a372fae344"
+                },
+                {
+                  "shiftstarttime": null,
+                  "shiftendtime": null,
+                  "shiftname": "Second Shift",
+                  "id": "24d77366-7ef1-40d0-9d29-e094d759b03f"
+                }
+              ],
+              "id": "3a300de7-10b6-4e7d-b1c9-9dbe07b7c875"
+            },
+            {
+              "date": "2025-11-01",
+              "shiftid": "24d77366-7ef1-40d0-9d29-e094d759b03f",
+              "shiftdata": [
+                {
+                  "shiftstarttime": null,
+                  "shiftendtime": null,
+                  "shiftname": "Third Shift",
+                  "id": "67ad836d-112d-4354-a95d-8f2a7144e3ad"
+                },
+                {
+                  "shiftstarttime": null,
+                  "shiftendtime": null,
+                  "shiftname": "First Shift",
+                  "id": "0b947677-ad5c-406c-9164-f6a372fae344"
+                },
+                {
+                  "shiftstarttime": null,
+                  "shiftendtime": null,
+                  "shiftname": "Second Shift",
+                  "id": "24d77366-7ef1-40d0-9d29-e094d759b03f"
+                }
+              ],
+              "id": "d5d01fec-7cb3-4376-9743-9b83a110d309"
+            },
+            {
+              "date": "2025-12-01",
+              "shiftid": "24d77366-7ef1-40d0-9d29-e094d759b03f",
+              "shiftdata": [
+                {
+                  "shiftstarttime": null,
+                  "shiftendtime": null,
+                  "shiftname": "Third Shift",
+                  "id": "67ad836d-112d-4354-a95d-8f2a7144e3ad"
+                },
+                {
+                  "shiftstarttime": null,
+                  "shiftendtime": null,
+                  "shiftname": "First Shift",
+                  "id": "0b947677-ad5c-406c-9164-f6a372fae344"
+                },
+                {
+                  "shiftstarttime": null,
+                  "shiftendtime": null,
+                  "shiftname": "Second Shift",
+                  "id": "24d77366-7ef1-40d0-9d29-e094d759b03f"
+                }
+              ],
+              "id": "96700f84-ffda-4201-92da-f966a4d25658"
+            },
+            {
+              "date": "2025-12-01",
+              "shiftid": "24d77366-7ef1-40d0-9d29-e094d759b03f",
+              "shiftdata": [
+                {
+                  "shiftstarttime": null,
+                  "shiftendtime": null,
+                  "shiftname": "Third Shift",
+                  "id": "67ad836d-112d-4354-a95d-8f2a7144e3ad"
+                },
+                {
+                  "shiftstarttime": null,
+                  "shiftendtime": null,
+                  "shiftname": "First Shift",
+                  "id": "0b947677-ad5c-406c-9164-f6a372fae344"
+                },
+                {
+                  "shiftstarttime": null,
+                  "shiftendtime": null,
+                  "shiftname": "Second Shift",
+                  "id": "24d77366-7ef1-40d0-9d29-e094d759b03f"
+                }
+              ],
+              "id": "ab4d14d7-db29-457f-9638-ce77f8bb41c8"
+            },
+            {
+              "date": "2026-05-01",
+              "shiftid": "67ad836d-112d-4354-a95d-8f2a7144e3ad",
+              "shiftdata": [
+                {
+                  "shiftstarttime": null,
+                  "shiftendtime": null,
+                  "shiftname": "Third Shift",
+                  "id": "67ad836d-112d-4354-a95d-8f2a7144e3ad"
+                },
+                {
+                  "shiftstarttime": null,
+                  "shiftendtime": null,
+                  "shiftname": "First Shift",
+                  "id": "0b947677-ad5c-406c-9164-f6a372fae344"
+                },
+                {
+                  "shiftstarttime": null,
+                  "shiftendtime": null,
+                  "shiftname": "Second Shift",
+                  "id": "24d77366-7ef1-40d0-9d29-e094d759b03f"
+                }
+              ],
+              "id": "5ed92358-6eb2-4e41-8bb2-40f143deabab"
+            },
+            {
+              "date": "2026-05-01",
+              "shiftid": "24d77366-7ef1-40d0-9d29-e094d759b03f",
+              "shiftdata": [
+                {
+                  "shiftstarttime": null,
+                  "shiftendtime": null,
+                  "shiftname": "Third Shift",
+                  "id": "67ad836d-112d-4354-a95d-8f2a7144e3ad"
+                },
+                {
+                  "shiftstarttime": null,
+                  "shiftendtime": null,
+                  "shiftname": "First Shift",
+                  "id": "0b947677-ad5c-406c-9164-f6a372fae344"
+                },
+                {
+                  "shiftstarttime": null,
+                  "shiftendtime": null,
+                  "shiftname": "Second Shift",
+                  "id": "24d77366-7ef1-40d0-9d29-e094d759b03f"
+                }
+              ],
+              "id": "14f8c8fe-7db2-4ff5-8245-47932d2103db"
+            }
+          ],
+          "id": "66179118f0759054701dc255",
+          "date": "2026-07-13T07:59:22.482Z",
+          "employeename": "Rakesh",
+          "employeenumber": "EMP-104"
+        },
+        "tsDate": "2026-07-13T07:59:22.482Z",
+        "exception": null,
+        "key": "66179118f0759054701dc255",
+        "groupBy": null
+      },
+      {
+        "jsonData": {
+          "role": "pavan.k@reactore.com",
+          "Details": [
+            {
+              "date": "2025-07-01",
+              "shiftid": "0b947677-ad5c-406c-9164-f6a372fae344",
+              "shiftdata": [
+                {
+                  "shiftstarttime": null,
+                  "shiftendtime": null,
+                  "shiftname": "Third Shift",
+                  "id": "67ad836d-112d-4354-a95d-8f2a7144e3ad"
+                },
+                {
+                  "shiftstarttime": null,
+                  "shiftendtime": null,
+                  "shiftname": "First Shift",
+                  "id": "0b947677-ad5c-406c-9164-f6a372fae344"
+                },
+                {
+                  "shiftstarttime": null,
+                  "shiftendtime": null,
+                  "shiftname": "Second Shift",
+                  "id": "24d77366-7ef1-40d0-9d29-e094d759b03f"
+                }
+              ],
+              "id": "18a2287f-ef74-4663-adb8-b07019f133f1"
+            },
+            {
+              "date": "2025-07-01",
+              "shiftid": "0b947677-ad5c-406c-9164-f6a372fae344",
+              "shiftdata": [
+                {
+                  "shiftstarttime": null,
+                  "shiftendtime": null,
+                  "shiftname": "Third Shift",
+                  "id": "67ad836d-112d-4354-a95d-8f2a7144e3ad"
+                },
+                {
+                  "shiftstarttime": null,
+                  "shiftendtime": null,
+                  "shiftname": "First Shift",
+                  "id": "0b947677-ad5c-406c-9164-f6a372fae344"
+                },
+                {
+                  "shiftstarttime": null,
+                  "shiftendtime": null,
+                  "shiftname": "Second Shift",
+                  "id": "24d77366-7ef1-40d0-9d29-e094d759b03f"
+                }
+              ],
+              "id": "db68dbdb-888d-4256-8a7f-b17196016998"
+            },
+            {
+              "date": "2025-07-01",
+              "shiftid": "0b947677-ad5c-406c-9164-f6a372fae344",
+              "shiftdata": [
+                {
+                  "shiftstarttime": null,
+                  "shiftendtime": null,
+                  "shiftname": "Third Shift",
+                  "id": "67ad836d-112d-4354-a95d-8f2a7144e3ad"
+                },
+                {
+                  "shiftstarttime": null,
+                  "shiftendtime": null,
+                  "shiftname": "First Shift",
+                  "id": "0b947677-ad5c-406c-9164-f6a372fae344"
+                },
+                {
+                  "shiftstarttime": null,
+                  "shiftendtime": null,
+                  "shiftname": "Second Shift",
+                  "id": "24d77366-7ef1-40d0-9d29-e094d759b03f"
+                }
+              ],
+              "id": "de107e1a-631d-4a3d-859d-af8dc31d53b3"
+            },
+            {
+              "date": "2025-07-01",
+              "shiftid": "24d77366-7ef1-40d0-9d29-e094d759b03f",
+              "shiftdata": [
+                {
+                  "shiftstarttime": null,
+                  "shiftendtime": null,
+                  "shiftname": "Third Shift",
+                  "id": "67ad836d-112d-4354-a95d-8f2a7144e3ad"
+                },
+                {
+                  "shiftstarttime": null,
+                  "shiftendtime": null,
+                  "shiftname": "First Shift",
+                  "id": "0b947677-ad5c-406c-9164-f6a372fae344"
+                },
+                {
+                  "shiftstarttime": null,
+                  "shiftendtime": null,
+                  "shiftname": "Second Shift",
+                  "id": "24d77366-7ef1-40d0-9d29-e094d759b03f"
+                }
+              ],
+              "id": "be5090b6-096b-41c2-9764-9236839fabb2"
+            },
+            {
+              "date": "2025-07-01",
+              "shiftid": "24d77366-7ef1-40d0-9d29-e094d759b03f",
+              "shiftdata": [
+                {
+                  "shiftstarttime": null,
+                  "shiftendtime": null,
+                  "shiftname": "Third Shift",
+                  "id": "67ad836d-112d-4354-a95d-8f2a7144e3ad"
+                },
+                {
+                  "shiftstarttime": null,
+                  "shiftendtime": null,
+                  "shiftname": "First Shift",
+                  "id": "0b947677-ad5c-406c-9164-f6a372fae344"
+                },
+                {
+                  "shiftstarttime": null,
+                  "shiftendtime": null,
+                  "shiftname": "Second Shift",
+                  "id": "24d77366-7ef1-40d0-9d29-e094d759b03f"
+                }
+              ],
+              "id": "87fdd54b-233a-4f15-bd4b-0f837a157f50"
+            },
+            {
+              "date": "2025-07-01",
+              "shiftid": "24d77366-7ef1-40d0-9d29-e094d759b03f",
+              "shiftdata": [
+                {
+                  "shiftstarttime": null,
+                  "shiftendtime": null,
+                  "shiftname": "Third Shift",
+                  "id": "67ad836d-112d-4354-a95d-8f2a7144e3ad"
+                },
+                {
+                  "shiftstarttime": null,
+                  "shiftendtime": null,
+                  "shiftname": "First Shift",
+                  "id": "0b947677-ad5c-406c-9164-f6a372fae344"
+                },
+                {
+                  "shiftstarttime": null,
+                  "shiftendtime": null,
+                  "shiftname": "Second Shift",
+                  "id": "24d77366-7ef1-40d0-9d29-e094d759b03f"
+                }
+              ],
+              "id": "bd92e1f5-e522-4a78-9698-4a6ae0e5ad2a"
+            },
+            {
+              "date": "2025-06-01",
+              "shiftid": "0b947677-ad5c-406c-9164-f6a372fae344",
+              "shiftdata": [
+                {
+                  "shiftstarttime": null,
+                  "shiftendtime": null,
+                  "shiftname": "Third Shift",
+                  "id": "67ad836d-112d-4354-a95d-8f2a7144e3ad"
+                },
+                {
+                  "shiftstarttime": null,
+                  "shiftendtime": null,
+                  "shiftname": "First Shift",
+                  "id": "0b947677-ad5c-406c-9164-f6a372fae344"
+                },
+                {
+                  "shiftstarttime": null,
+                  "shiftendtime": null,
+                  "shiftname": "Second Shift",
+                  "id": "24d77366-7ef1-40d0-9d29-e094d759b03f"
+                }
+              ],
+              "id": "28d10563-6c07-4ef5-b793-89febaf77dd4"
+            },
+            {
+              "date": "2025-06-01",
+              "shiftid": "67ad836d-112d-4354-a95d-8f2a7144e3ad",
+              "shiftdata": [
+                {
+                  "shiftstarttime": null,
+                  "shiftendtime": null,
+                  "shiftname": "Third Shift",
+                  "id": "67ad836d-112d-4354-a95d-8f2a7144e3ad"
+                },
+                {
+                  "shiftstarttime": null,
+                  "shiftendtime": null,
+                  "shiftname": "First Shift",
+                  "id": "0b947677-ad5c-406c-9164-f6a372fae344"
+                },
+                {
+                  "shiftstarttime": null,
+                  "shiftendtime": null,
+                  "shiftname": "Second Shift",
+                  "id": "24d77366-7ef1-40d0-9d29-e094d759b03f"
+                }
+              ],
+              "id": "5ab95dfa-62c7-4ec2-b243-0bc29eac9a46"
+            },
+            {
+              "date": "2025-07-01",
+              "shiftid": "24d77366-7ef1-40d0-9d29-e094d759b03f",
+              "shiftdata": [
+                {
+                  "shiftstarttime": null,
+                  "shiftendtime": null,
+                  "shiftname": "Third Shift",
+                  "id": "67ad836d-112d-4354-a95d-8f2a7144e3ad"
+                },
+                {
+                  "shiftstarttime": null,
+                  "shiftendtime": null,
+                  "shiftname": "First Shift",
+                  "id": "0b947677-ad5c-406c-9164-f6a372fae344"
+                },
+                {
+                  "shiftstarttime": null,
+                  "shiftendtime": null,
+                  "shiftname": "Second Shift",
+                  "id": "24d77366-7ef1-40d0-9d29-e094d759b03f"
+                }
+              ],
+              "id": "9c8d5148-bfc1-492c-99dd-6835f3a1fe6e"
+            },
+            {
+              "date": "2025-09-01",
+              "shiftid": "67ad836d-112d-4354-a95d-8f2a7144e3ad",
+              "shiftdata": [
+                {
+                  "shiftstarttime": null,
+                  "shiftendtime": null,
+                  "shiftname": "Third Shift",
+                  "id": "67ad836d-112d-4354-a95d-8f2a7144e3ad"
+                },
+                {
+                  "shiftstarttime": null,
+                  "shiftendtime": null,
+                  "shiftname": "First Shift",
+                  "id": "0b947677-ad5c-406c-9164-f6a372fae344"
+                },
+                {
+                  "shiftstarttime": null,
+                  "shiftendtime": null,
+                  "shiftname": "Second Shift",
+                  "id": "24d77366-7ef1-40d0-9d29-e094d759b03f"
+                }
+              ],
+              "id": "fa3a937c-1a6e-467e-9c0b-ef7fb0dea600"
+            },
+            {
+              "date": "2025-08-26",
+              "shiftid": "67ad836d-112d-4354-a95d-8f2a7144e3ad",
+              "shiftdata": [
+                {
+                  "shiftstarttime": null,
+                  "shiftendtime": null,
+                  "shiftname": "Third Shift",
+                  "id": "67ad836d-112d-4354-a95d-8f2a7144e3ad"
+                },
+                {
+                  "shiftstarttime": null,
+                  "shiftendtime": null,
+                  "shiftname": "First Shift",
+                  "id": "0b947677-ad5c-406c-9164-f6a372fae344"
+                },
+                {
+                  "shiftstarttime": null,
+                  "shiftendtime": null,
+                  "shiftname": "Second Shift",
+                  "id": "24d77366-7ef1-40d0-9d29-e094d759b03f"
+                }
+              ],
+              "id": "1ae47d9b-ec20-49a0-b378-3752310c4083"
+            },
+            {
+              "date": "2025-08-28",
+              "shiftid": "67ad836d-112d-4354-a95d-8f2a7144e3ad",
+              "shiftdata": [
+                {
+                  "shiftstarttime": null,
+                  "shiftendtime": null,
+                  "shiftname": "Third Shift",
+                  "id": "67ad836d-112d-4354-a95d-8f2a7144e3ad"
+                },
+                {
+                  "shiftstarttime": null,
+                  "shiftendtime": null,
+                  "shiftname": "First Shift",
+                  "id": "0b947677-ad5c-406c-9164-f6a372fae344"
+                },
+                {
+                  "shiftstarttime": null,
+                  "shiftendtime": null,
+                  "shiftname": "Second Shift",
+                  "id": "24d77366-7ef1-40d0-9d29-e094d759b03f"
+                }
+              ],
+              "id": "573d4035-67bf-44e7-aff8-9cb47005f0dd"
+            },
+            {
+              "date": "2025-09-17",
+              "shiftid": "67ad836d-112d-4354-a95d-8f2a7144e3ad",
+              "shiftdata": [
+                {
+                  "shiftstarttime": null,
+                  "shiftendtime": null,
+                  "shiftname": "Third Shift",
+                  "id": "67ad836d-112d-4354-a95d-8f2a7144e3ad"
+                },
+                {
+                  "shiftstarttime": null,
+                  "shiftendtime": null,
+                  "shiftname": "First Shift",
+                  "id": "0b947677-ad5c-406c-9164-f6a372fae344"
+                },
+                {
+                  "shiftstarttime": null,
+                  "shiftendtime": null,
+                  "shiftname": "Second Shift",
+                  "id": "24d77366-7ef1-40d0-9d29-e094d759b03f"
+                }
+              ],
+              "id": "148ecb13-fcd9-4b18-af86-ea5de22dd9b3"
+            },
+            {
+              "date": "2025-09-17",
+              "shiftid": "67ad836d-112d-4354-a95d-8f2a7144e3ad",
+              "shiftdata": [
+                {
+                  "shiftstarttime": null,
+                  "shiftendtime": null,
+                  "shiftname": "Third Shift",
+                  "id": "67ad836d-112d-4354-a95d-8f2a7144e3ad"
+                },
+                {
+                  "shiftstarttime": null,
+                  "shiftendtime": null,
+                  "shiftname": "First Shift",
+                  "id": "0b947677-ad5c-406c-9164-f6a372fae344"
+                },
+                {
+                  "shiftstarttime": null,
+                  "shiftendtime": null,
+                  "shiftname": "Second Shift",
+                  "id": "24d77366-7ef1-40d0-9d29-e094d759b03f"
+                }
+              ],
+              "id": "68963943-4744-498f-ba17-9c502c45eba4"
+            },
+            {
+              "date": "2025-10-01",
+              "shiftid": "67ad836d-112d-4354-a95d-8f2a7144e3ad",
+              "shiftdata": [
+                {
+                  "shiftstarttime": null,
+                  "shiftendtime": null,
+                  "shiftname": "Third Shift",
+                  "id": "67ad836d-112d-4354-a95d-8f2a7144e3ad"
+                },
+                {
+                  "shiftstarttime": null,
+                  "shiftendtime": null,
+                  "shiftname": "First Shift",
+                  "id": "0b947677-ad5c-406c-9164-f6a372fae344"
+                },
+                {
+                  "shiftstarttime": null,
+                  "shiftendtime": null,
+                  "shiftname": "Second Shift",
+                  "id": "24d77366-7ef1-40d0-9d29-e094d759b03f"
+                }
+              ],
+              "id": "b11165d9-d5ea-430d-b7c5-560990625055"
+            },
+            {
+              "date": "2025-10-01",
+              "shiftid": "67ad836d-112d-4354-a95d-8f2a7144e3ad",
+              "shiftdata": [
+                {
+                  "shiftstarttime": null,
+                  "shiftendtime": null,
+                  "shiftname": "Third Shift",
+                  "id": "67ad836d-112d-4354-a95d-8f2a7144e3ad"
+                },
+                {
+                  "shiftstarttime": null,
+                  "shiftendtime": null,
+                  "shiftname": "First Shift",
+                  "id": "0b947677-ad5c-406c-9164-f6a372fae344"
+                },
+                {
+                  "shiftstarttime": null,
+                  "shiftendtime": null,
+                  "shiftname": "Second Shift",
+                  "id": "24d77366-7ef1-40d0-9d29-e094d759b03f"
+                }
+              ],
+              "id": "bf15ff75-413b-40e6-9c8b-884fb994d952"
+            },
+            {
+              "date": "2025-10-01",
+              "shiftid": "67ad836d-112d-4354-a95d-8f2a7144e3ad",
+              "shiftdata": [
+                {
+                  "shiftstarttime": null,
+                  "shiftendtime": null,
+                  "shiftname": "Third Shift",
+                  "id": "67ad836d-112d-4354-a95d-8f2a7144e3ad"
+                },
+                {
+                  "shiftstarttime": null,
+                  "shiftendtime": null,
+                  "shiftname": "First Shift",
+                  "id": "0b947677-ad5c-406c-9164-f6a372fae344"
+                },
+                {
+                  "shiftstarttime": null,
+                  "shiftendtime": null,
+                  "shiftname": "Second Shift",
+                  "id": "24d77366-7ef1-40d0-9d29-e094d759b03f"
+                }
+              ],
+              "id": "147e9bc2-0033-4279-a972-716d02ed4ae8"
+            },
+            {
+              "date": "2025-11-01",
+              "shiftid": "24d77366-7ef1-40d0-9d29-e094d759b03f",
+              "shiftdata": [
+                {
+                  "shiftstarttime": null,
+                  "shiftendtime": null,
+                  "shiftname": "Third Shift",
+                  "id": "67ad836d-112d-4354-a95d-8f2a7144e3ad"
+                },
+                {
+                  "shiftstarttime": null,
+                  "shiftendtime": null,
+                  "shiftname": "First Shift",
+                  "id": "0b947677-ad5c-406c-9164-f6a372fae344"
+                },
+                {
+                  "shiftstarttime": null,
+                  "shiftendtime": null,
+                  "shiftname": "Second Shift",
+                  "id": "24d77366-7ef1-40d0-9d29-e094d759b03f"
+                }
+              ],
+              "id": "0ed771b4-0fb8-4979-9d66-257ed4dab2b9"
+            },
+            {
+              "date": "2025-11-01",
+              "shiftid": "24d77366-7ef1-40d0-9d29-e094d759b03f",
+              "shiftdata": [
+                {
+                  "shiftstarttime": null,
+                  "shiftendtime": null,
+                  "shiftname": "Third Shift",
+                  "id": "67ad836d-112d-4354-a95d-8f2a7144e3ad"
+                },
+                {
+                  "shiftstarttime": null,
+                  "shiftendtime": null,
+                  "shiftname": "First Shift",
+                  "id": "0b947677-ad5c-406c-9164-f6a372fae344"
+                },
+                {
+                  "shiftstarttime": null,
+                  "shiftendtime": null,
+                  "shiftname": "Second Shift",
+                  "id": "24d77366-7ef1-40d0-9d29-e094d759b03f"
+                }
+              ],
+              "id": "322afcf2-6056-4da0-adac-dc048ff3eee9"
+            },
+            {
+              "date": "2025-11-01",
+              "shiftid": "24d77366-7ef1-40d0-9d29-e094d759b03f",
+              "shiftdata": [
+                {
+                  "shiftstarttime": null,
+                  "shiftendtime": null,
+                  "shiftname": "Third Shift",
+                  "id": "67ad836d-112d-4354-a95d-8f2a7144e3ad"
+                },
+                {
+                  "shiftstarttime": null,
+                  "shiftendtime": null,
+                  "shiftname": "First Shift",
+                  "id": "0b947677-ad5c-406c-9164-f6a372fae344"
+                },
+                {
+                  "shiftstarttime": null,
+                  "shiftendtime": null,
+                  "shiftname": "Second Shift",
+                  "id": "24d77366-7ef1-40d0-9d29-e094d759b03f"
+                }
+              ],
+              "id": "3a300de7-10b6-4e7d-b1c9-9dbe07b7c875"
+            },
+            {
+              "date": "2025-11-01",
+              "shiftid": "24d77366-7ef1-40d0-9d29-e094d759b03f",
+              "shiftdata": [
+                {
+                  "shiftstarttime": null,
+                  "shiftendtime": null,
+                  "shiftname": "Third Shift",
+                  "id": "67ad836d-112d-4354-a95d-8f2a7144e3ad"
+                },
+                {
+                  "shiftstarttime": null,
+                  "shiftendtime": null,
+                  "shiftname": "First Shift",
+                  "id": "0b947677-ad5c-406c-9164-f6a372fae344"
+                },
+                {
+                  "shiftstarttime": null,
+                  "shiftendtime": null,
+                  "shiftname": "Second Shift",
+                  "id": "24d77366-7ef1-40d0-9d29-e094d759b03f"
+                }
+              ],
+              "id": "d5d01fec-7cb3-4376-9743-9b83a110d309"
+            },
+            {
+              "date": "2025-12-01",
+              "shiftid": "24d77366-7ef1-40d0-9d29-e094d759b03f",
+              "shiftdata": [
+                {
+                  "shiftstarttime": null,
+                  "shiftendtime": null,
+                  "shiftname": "Third Shift",
+                  "id": "67ad836d-112d-4354-a95d-8f2a7144e3ad"
+                },
+                {
+                  "shiftstarttime": null,
+                  "shiftendtime": null,
+                  "shiftname": "First Shift",
+                  "id": "0b947677-ad5c-406c-9164-f6a372fae344"
+                },
+                {
+                  "shiftstarttime": null,
+                  "shiftendtime": null,
+                  "shiftname": "Second Shift",
+                  "id": "24d77366-7ef1-40d0-9d29-e094d759b03f"
+                }
+              ],
+              "id": "96700f84-ffda-4201-92da-f966a4d25658"
+            },
+            {
+              "date": "2025-12-01",
+              "shiftid": "24d77366-7ef1-40d0-9d29-e094d759b03f",
+              "shiftdata": [
+                {
+                  "shiftstarttime": null,
+                  "shiftendtime": null,
+                  "shiftname": "Third Shift",
+                  "id": "67ad836d-112d-4354-a95d-8f2a7144e3ad"
+                },
+                {
+                  "shiftstarttime": null,
+                  "shiftendtime": null,
+                  "shiftname": "First Shift",
+                  "id": "0b947677-ad5c-406c-9164-f6a372fae344"
+                },
+                {
+                  "shiftstarttime": null,
+                  "shiftendtime": null,
+                  "shiftname": "Second Shift",
+                  "id": "24d77366-7ef1-40d0-9d29-e094d759b03f"
+                }
+              ],
+              "id": "ab4d14d7-db29-457f-9638-ce77f8bb41c8"
+            },
+            {
+              "date": "2026-05-01",
+              "shiftid": "67ad836d-112d-4354-a95d-8f2a7144e3ad",
+              "shiftdata": [
+                {
+                  "shiftstarttime": null,
+                  "shiftendtime": null,
+                  "shiftname": "Third Shift",
+                  "id": "67ad836d-112d-4354-a95d-8f2a7144e3ad"
+                },
+                {
+                  "shiftstarttime": null,
+                  "shiftendtime": null,
+                  "shiftname": "First Shift",
+                  "id": "0b947677-ad5c-406c-9164-f6a372fae344"
+                },
+                {
+                  "shiftstarttime": null,
+                  "shiftendtime": null,
+                  "shiftname": "Second Shift",
+                  "id": "24d77366-7ef1-40d0-9d29-e094d759b03f"
+                }
+              ],
+              "id": "5ed92358-6eb2-4e41-8bb2-40f143deabab"
+            },
+            {
+              "date": "2026-05-01",
+              "shiftid": "24d77366-7ef1-40d0-9d29-e094d759b03f",
+              "shiftdata": [
+                {
+                  "shiftstarttime": null,
+                  "shiftendtime": null,
+                  "shiftname": "Third Shift",
+                  "id": "67ad836d-112d-4354-a95d-8f2a7144e3ad"
+                },
+                {
+                  "shiftstarttime": null,
+                  "shiftendtime": null,
+                  "shiftname": "First Shift",
+                  "id": "0b947677-ad5c-406c-9164-f6a372fae344"
+                },
+                {
+                  "shiftstarttime": null,
+                  "shiftendtime": null,
+                  "shiftname": "Second Shift",
+                  "id": "24d77366-7ef1-40d0-9d29-e094d759b03f"
+                }
+              ],
+              "id": "14f8c8fe-7db2-4ff5-8245-47932d2103db"
+            }
+          ],
+          "id": "962c4072-2746-4a90-8663-4344950c7cfc",
+          "date": "2026-07-13T07:59:24.627Z",
+          "employeename": "Pavan",
+          "employeenumber": "EMP-103"
+        },
+        "tsDate": "2026-07-13T07:59:24.627Z",
+        "exception": null,
+        "key": "962c4072-2746-4a90-8663-4344950c7cfc",
+        "groupBy": null
+      },
+      {
+        "jsonData": {
+          "role": "anand.p@reactore.com",
+          "Details": [
+            {
+              "date": "2025-07-01",
+              "shiftid": "0b947677-ad5c-406c-9164-f6a372fae344",
+              "shiftdata": [
+                {
+                  "shiftstarttime": null,
+                  "shiftendtime": null,
+                  "shiftname": "Third Shift",
+                  "id": "67ad836d-112d-4354-a95d-8f2a7144e3ad"
+                },
+                {
+                  "shiftstarttime": null,
+                  "shiftendtime": null,
+                  "shiftname": "First Shift",
+                  "id": "0b947677-ad5c-406c-9164-f6a372fae344"
+                },
+                {
+                  "shiftstarttime": null,
+                  "shiftendtime": null,
+                  "shiftname": "Second Shift",
+                  "id": "24d77366-7ef1-40d0-9d29-e094d759b03f"
+                }
+              ],
+              "id": "18a2287f-ef74-4663-adb8-b07019f133f1"
+            },
+            {
+              "date": "2025-07-01",
+              "shiftid": "0b947677-ad5c-406c-9164-f6a372fae344",
+              "shiftdata": [
+                {
+                  "shiftstarttime": null,
+                  "shiftendtime": null,
+                  "shiftname": "Third Shift",
+                  "id": "67ad836d-112d-4354-a95d-8f2a7144e3ad"
+                },
+                {
+                  "shiftstarttime": null,
+                  "shiftendtime": null,
+                  "shiftname": "First Shift",
+                  "id": "0b947677-ad5c-406c-9164-f6a372fae344"
+                },
+                {
+                  "shiftstarttime": null,
+                  "shiftendtime": null,
+                  "shiftname": "Second Shift",
+                  "id": "24d77366-7ef1-40d0-9d29-e094d759b03f"
+                }
+              ],
+              "id": "db68dbdb-888d-4256-8a7f-b17196016998"
+            },
+            {
+              "date": "2025-07-01",
+              "shiftid": "0b947677-ad5c-406c-9164-f6a372fae344",
+              "shiftdata": [
+                {
+                  "shiftstarttime": null,
+                  "shiftendtime": null,
+                  "shiftname": "Third Shift",
+                  "id": "67ad836d-112d-4354-a95d-8f2a7144e3ad"
+                },
+                {
+                  "shiftstarttime": null,
+                  "shiftendtime": null,
+                  "shiftname": "First Shift",
+                  "id": "0b947677-ad5c-406c-9164-f6a372fae344"
+                },
+                {
+                  "shiftstarttime": null,
+                  "shiftendtime": null,
+                  "shiftname": "Second Shift",
+                  "id": "24d77366-7ef1-40d0-9d29-e094d759b03f"
+                }
+              ],
+              "id": "de107e1a-631d-4a3d-859d-af8dc31d53b3"
+            },
+            {
+              "date": "2025-07-01",
+              "shiftid": "24d77366-7ef1-40d0-9d29-e094d759b03f",
+              "shiftdata": [
+                {
+                  "shiftstarttime": null,
+                  "shiftendtime": null,
+                  "shiftname": "Third Shift",
+                  "id": "67ad836d-112d-4354-a95d-8f2a7144e3ad"
+                },
+                {
+                  "shiftstarttime": null,
+                  "shiftendtime": null,
+                  "shiftname": "First Shift",
+                  "id": "0b947677-ad5c-406c-9164-f6a372fae344"
+                },
+                {
+                  "shiftstarttime": null,
+                  "shiftendtime": null,
+                  "shiftname": "Second Shift",
+                  "id": "24d77366-7ef1-40d0-9d29-e094d759b03f"
+                }
+              ],
+              "id": "be5090b6-096b-41c2-9764-9236839fabb2"
+            },
+            {
+              "date": "2025-07-01",
+              "shiftid": "24d77366-7ef1-40d0-9d29-e094d759b03f",
+              "shiftdata": [
+                {
+                  "shiftstarttime": null,
+                  "shiftendtime": null,
+                  "shiftname": "Third Shift",
+                  "id": "67ad836d-112d-4354-a95d-8f2a7144e3ad"
+                },
+                {
+                  "shiftstarttime": null,
+                  "shiftendtime": null,
+                  "shiftname": "First Shift",
+                  "id": "0b947677-ad5c-406c-9164-f6a372fae344"
+                },
+                {
+                  "shiftstarttime": null,
+                  "shiftendtime": null,
+                  "shiftname": "Second Shift",
+                  "id": "24d77366-7ef1-40d0-9d29-e094d759b03f"
+                }
+              ],
+              "id": "87fdd54b-233a-4f15-bd4b-0f837a157f50"
+            },
+            {
+              "date": "2025-07-01",
+              "shiftid": "24d77366-7ef1-40d0-9d29-e094d759b03f",
+              "shiftdata": [
+                {
+                  "shiftstarttime": null,
+                  "shiftendtime": null,
+                  "shiftname": "Third Shift",
+                  "id": "67ad836d-112d-4354-a95d-8f2a7144e3ad"
+                },
+                {
+                  "shiftstarttime": null,
+                  "shiftendtime": null,
+                  "shiftname": "First Shift",
+                  "id": "0b947677-ad5c-406c-9164-f6a372fae344"
+                },
+                {
+                  "shiftstarttime": null,
+                  "shiftendtime": null,
+                  "shiftname": "Second Shift",
+                  "id": "24d77366-7ef1-40d0-9d29-e094d759b03f"
+                }
+              ],
+              "id": "bd92e1f5-e522-4a78-9698-4a6ae0e5ad2a"
+            },
+            {
+              "date": "2025-06-01",
+              "shiftid": "0b947677-ad5c-406c-9164-f6a372fae344",
+              "shiftdata": [
+                {
+                  "shiftstarttime": null,
+                  "shiftendtime": null,
+                  "shiftname": "Third Shift",
+                  "id": "67ad836d-112d-4354-a95d-8f2a7144e3ad"
+                },
+                {
+                  "shiftstarttime": null,
+                  "shiftendtime": null,
+                  "shiftname": "First Shift",
+                  "id": "0b947677-ad5c-406c-9164-f6a372fae344"
+                },
+                {
+                  "shiftstarttime": null,
+                  "shiftendtime": null,
+                  "shiftname": "Second Shift",
+                  "id": "24d77366-7ef1-40d0-9d29-e094d759b03f"
+                }
+              ],
+              "id": "28d10563-6c07-4ef5-b793-89febaf77dd4"
+            },
+            {
+              "date": "2025-06-01",
+              "shiftid": "67ad836d-112d-4354-a95d-8f2a7144e3ad",
+              "shiftdata": [
+                {
+                  "shiftstarttime": null,
+                  "shiftendtime": null,
+                  "shiftname": "Third Shift",
+                  "id": "67ad836d-112d-4354-a95d-8f2a7144e3ad"
+                },
+                {
+                  "shiftstarttime": null,
+                  "shiftendtime": null,
+                  "shiftname": "First Shift",
+                  "id": "0b947677-ad5c-406c-9164-f6a372fae344"
+                },
+                {
+                  "shiftstarttime": null,
+                  "shiftendtime": null,
+                  "shiftname": "Second Shift",
+                  "id": "24d77366-7ef1-40d0-9d29-e094d759b03f"
+                }
+              ],
+              "id": "5ab95dfa-62c7-4ec2-b243-0bc29eac9a46"
+            },
+            {
+              "date": "2025-07-01",
+              "shiftid": "24d77366-7ef1-40d0-9d29-e094d759b03f",
+              "shiftdata": [
+                {
+                  "shiftstarttime": null,
+                  "shiftendtime": null,
+                  "shiftname": "Third Shift",
+                  "id": "67ad836d-112d-4354-a95d-8f2a7144e3ad"
+                },
+                {
+                  "shiftstarttime": null,
+                  "shiftendtime": null,
+                  "shiftname": "First Shift",
+                  "id": "0b947677-ad5c-406c-9164-f6a372fae344"
+                },
+                {
+                  "shiftstarttime": null,
+                  "shiftendtime": null,
+                  "shiftname": "Second Shift",
+                  "id": "24d77366-7ef1-40d0-9d29-e094d759b03f"
+                }
+              ],
+              "id": "9c8d5148-bfc1-492c-99dd-6835f3a1fe6e"
+            },
+            {
+              "date": "2025-09-01",
+              "shiftid": "67ad836d-112d-4354-a95d-8f2a7144e3ad",
+              "shiftdata": [
+                {
+                  "shiftstarttime": null,
+                  "shiftendtime": null,
+                  "shiftname": "Third Shift",
+                  "id": "67ad836d-112d-4354-a95d-8f2a7144e3ad"
+                },
+                {
+                  "shiftstarttime": null,
+                  "shiftendtime": null,
+                  "shiftname": "First Shift",
+                  "id": "0b947677-ad5c-406c-9164-f6a372fae344"
+                },
+                {
+                  "shiftstarttime": null,
+                  "shiftendtime": null,
+                  "shiftname": "Second Shift",
+                  "id": "24d77366-7ef1-40d0-9d29-e094d759b03f"
+                }
+              ],
+              "id": "fa3a937c-1a6e-467e-9c0b-ef7fb0dea600"
+            },
+            {
+              "date": "2025-08-26",
+              "shiftid": "67ad836d-112d-4354-a95d-8f2a7144e3ad",
+              "shiftdata": [
+                {
+                  "shiftstarttime": null,
+                  "shiftendtime": null,
+                  "shiftname": "Third Shift",
+                  "id": "67ad836d-112d-4354-a95d-8f2a7144e3ad"
+                },
+                {
+                  "shiftstarttime": null,
+                  "shiftendtime": null,
+                  "shiftname": "First Shift",
+                  "id": "0b947677-ad5c-406c-9164-f6a372fae344"
+                },
+                {
+                  "shiftstarttime": null,
+                  "shiftendtime": null,
+                  "shiftname": "Second Shift",
+                  "id": "24d77366-7ef1-40d0-9d29-e094d759b03f"
+                }
+              ],
+              "id": "1ae47d9b-ec20-49a0-b378-3752310c4083"
+            },
+            {
+              "date": "2025-08-28",
+              "shiftid": "67ad836d-112d-4354-a95d-8f2a7144e3ad",
+              "shiftdata": [
+                {
+                  "shiftstarttime": null,
+                  "shiftendtime": null,
+                  "shiftname": "Third Shift",
+                  "id": "67ad836d-112d-4354-a95d-8f2a7144e3ad"
+                },
+                {
+                  "shiftstarttime": null,
+                  "shiftendtime": null,
+                  "shiftname": "First Shift",
+                  "id": "0b947677-ad5c-406c-9164-f6a372fae344"
+                },
+                {
+                  "shiftstarttime": null,
+                  "shiftendtime": null,
+                  "shiftname": "Second Shift",
+                  "id": "24d77366-7ef1-40d0-9d29-e094d759b03f"
+                }
+              ],
+              "id": "573d4035-67bf-44e7-aff8-9cb47005f0dd"
+            },
+            {
+              "date": "2025-09-17",
+              "shiftid": "67ad836d-112d-4354-a95d-8f2a7144e3ad",
+              "shiftdata": [
+                {
+                  "shiftstarttime": null,
+                  "shiftendtime": null,
+                  "shiftname": "Third Shift",
+                  "id": "67ad836d-112d-4354-a95d-8f2a7144e3ad"
+                },
+                {
+                  "shiftstarttime": null,
+                  "shiftendtime": null,
+                  "shiftname": "First Shift",
+                  "id": "0b947677-ad5c-406c-9164-f6a372fae344"
+                },
+                {
+                  "shiftstarttime": null,
+                  "shiftendtime": null,
+                  "shiftname": "Second Shift",
+                  "id": "24d77366-7ef1-40d0-9d29-e094d759b03f"
+                }
+              ],
+              "id": "148ecb13-fcd9-4b18-af86-ea5de22dd9b3"
+            },
+            {
+              "date": "2025-09-17",
+              "shiftid": "67ad836d-112d-4354-a95d-8f2a7144e3ad",
+              "shiftdata": [
+                {
+                  "shiftstarttime": null,
+                  "shiftendtime": null,
+                  "shiftname": "Third Shift",
+                  "id": "67ad836d-112d-4354-a95d-8f2a7144e3ad"
+                },
+                {
+                  "shiftstarttime": null,
+                  "shiftendtime": null,
+                  "shiftname": "First Shift",
+                  "id": "0b947677-ad5c-406c-9164-f6a372fae344"
+                },
+                {
+                  "shiftstarttime": null,
+                  "shiftendtime": null,
+                  "shiftname": "Second Shift",
+                  "id": "24d77366-7ef1-40d0-9d29-e094d759b03f"
+                }
+              ],
+              "id": "68963943-4744-498f-ba17-9c502c45eba4"
+            },
+            {
+              "date": "2025-10-01",
+              "shiftid": "67ad836d-112d-4354-a95d-8f2a7144e3ad",
+              "shiftdata": [
+                {
+                  "shiftstarttime": null,
+                  "shiftendtime": null,
+                  "shiftname": "Third Shift",
+                  "id": "67ad836d-112d-4354-a95d-8f2a7144e3ad"
+                },
+                {
+                  "shiftstarttime": null,
+                  "shiftendtime": null,
+                  "shiftname": "First Shift",
+                  "id": "0b947677-ad5c-406c-9164-f6a372fae344"
+                },
+                {
+                  "shiftstarttime": null,
+                  "shiftendtime": null,
+                  "shiftname": "Second Shift",
+                  "id": "24d77366-7ef1-40d0-9d29-e094d759b03f"
+                }
+              ],
+              "id": "b11165d9-d5ea-430d-b7c5-560990625055"
+            },
+            {
+              "date": "2025-10-01",
+              "shiftid": "67ad836d-112d-4354-a95d-8f2a7144e3ad",
+              "shiftdata": [
+                {
+                  "shiftstarttime": null,
+                  "shiftendtime": null,
+                  "shiftname": "Third Shift",
+                  "id": "67ad836d-112d-4354-a95d-8f2a7144e3ad"
+                },
+                {
+                  "shiftstarttime": null,
+                  "shiftendtime": null,
+                  "shiftname": "First Shift",
+                  "id": "0b947677-ad5c-406c-9164-f6a372fae344"
+                },
+                {
+                  "shiftstarttime": null,
+                  "shiftendtime": null,
+                  "shiftname": "Second Shift",
+                  "id": "24d77366-7ef1-40d0-9d29-e094d759b03f"
+                }
+              ],
+              "id": "bf15ff75-413b-40e6-9c8b-884fb994d952"
+            },
+            {
+              "date": "2025-10-01",
+              "shiftid": "67ad836d-112d-4354-a95d-8f2a7144e3ad",
+              "shiftdata": [
+                {
+                  "shiftstarttime": null,
+                  "shiftendtime": null,
+                  "shiftname": "Third Shift",
+                  "id": "67ad836d-112d-4354-a95d-8f2a7144e3ad"
+                },
+                {
+                  "shiftstarttime": null,
+                  "shiftendtime": null,
+                  "shiftname": "First Shift",
+                  "id": "0b947677-ad5c-406c-9164-f6a372fae344"
+                },
+                {
+                  "shiftstarttime": null,
+                  "shiftendtime": null,
+                  "shiftname": "Second Shift",
+                  "id": "24d77366-7ef1-40d0-9d29-e094d759b03f"
+                }
+              ],
+              "id": "147e9bc2-0033-4279-a972-716d02ed4ae8"
+            },
+            {
+              "date": "2025-11-01",
+              "shiftid": "24d77366-7ef1-40d0-9d29-e094d759b03f",
+              "shiftdata": [
+                {
+                  "shiftstarttime": null,
+                  "shiftendtime": null,
+                  "shiftname": "Third Shift",
+                  "id": "67ad836d-112d-4354-a95d-8f2a7144e3ad"
+                },
+                {
+                  "shiftstarttime": null,
+                  "shiftendtime": null,
+                  "shiftname": "First Shift",
+                  "id": "0b947677-ad5c-406c-9164-f6a372fae344"
+                },
+                {
+                  "shiftstarttime": null,
+                  "shiftendtime": null,
+                  "shiftname": "Second Shift",
+                  "id": "24d77366-7ef1-40d0-9d29-e094d759b03f"
+                }
+              ],
+              "id": "0ed771b4-0fb8-4979-9d66-257ed4dab2b9"
+            },
+            {
+              "date": "2025-11-01",
+              "shiftid": "24d77366-7ef1-40d0-9d29-e094d759b03f",
+              "shiftdata": [
+                {
+                  "shiftstarttime": null,
+                  "shiftendtime": null,
+                  "shiftname": "Third Shift",
+                  "id": "67ad836d-112d-4354-a95d-8f2a7144e3ad"
+                },
+                {
+                  "shiftstarttime": null,
+                  "shiftendtime": null,
+                  "shiftname": "First Shift",
+                  "id": "0b947677-ad5c-406c-9164-f6a372fae344"
+                },
+                {
+                  "shiftstarttime": null,
+                  "shiftendtime": null,
+                  "shiftname": "Second Shift",
+                  "id": "24d77366-7ef1-40d0-9d29-e094d759b03f"
+                }
+              ],
+              "id": "322afcf2-6056-4da0-adac-dc048ff3eee9"
+            },
+            {
+              "date": "2025-11-01",
+              "shiftid": "24d77366-7ef1-40d0-9d29-e094d759b03f",
+              "shiftdata": [
+                {
+                  "shiftstarttime": null,
+                  "shiftendtime": null,
+                  "shiftname": "Third Shift",
+                  "id": "67ad836d-112d-4354-a95d-8f2a7144e3ad"
+                },
+                {
+                  "shiftstarttime": null,
+                  "shiftendtime": null,
+                  "shiftname": "First Shift",
+                  "id": "0b947677-ad5c-406c-9164-f6a372fae344"
+                },
+                {
+                  "shiftstarttime": null,
+                  "shiftendtime": null,
+                  "shiftname": "Second Shift",
+                  "id": "24d77366-7ef1-40d0-9d29-e094d759b03f"
+                }
+              ],
+              "id": "3a300de7-10b6-4e7d-b1c9-9dbe07b7c875"
+            },
+            {
+              "date": "2025-11-01",
+              "shiftid": "24d77366-7ef1-40d0-9d29-e094d759b03f",
+              "shiftdata": [
+                {
+                  "shiftstarttime": null,
+                  "shiftendtime": null,
+                  "shiftname": "Third Shift",
+                  "id": "67ad836d-112d-4354-a95d-8f2a7144e3ad"
+                },
+                {
+                  "shiftstarttime": null,
+                  "shiftendtime": null,
+                  "shiftname": "First Shift",
+                  "id": "0b947677-ad5c-406c-9164-f6a372fae344"
+                },
+                {
+                  "shiftstarttime": null,
+                  "shiftendtime": null,
+                  "shiftname": "Second Shift",
+                  "id": "24d77366-7ef1-40d0-9d29-e094d759b03f"
+                }
+              ],
+              "id": "d5d01fec-7cb3-4376-9743-9b83a110d309"
+            },
+            {
+              "date": "2025-12-01",
+              "shiftid": "24d77366-7ef1-40d0-9d29-e094d759b03f",
+              "shiftdata": [
+                {
+                  "shiftstarttime": null,
+                  "shiftendtime": null,
+                  "shiftname": "Third Shift",
+                  "id": "67ad836d-112d-4354-a95d-8f2a7144e3ad"
+                },
+                {
+                  "shiftstarttime": null,
+                  "shiftendtime": null,
+                  "shiftname": "First Shift",
+                  "id": "0b947677-ad5c-406c-9164-f6a372fae344"
+                },
+                {
+                  "shiftstarttime": null,
+                  "shiftendtime": null,
+                  "shiftname": "Second Shift",
+                  "id": "24d77366-7ef1-40d0-9d29-e094d759b03f"
+                }
+              ],
+              "id": "96700f84-ffda-4201-92da-f966a4d25658"
+            },
+            {
+              "date": "2025-12-01",
+              "shiftid": "24d77366-7ef1-40d0-9d29-e094d759b03f",
+              "shiftdata": [
+                {
+                  "shiftstarttime": null,
+                  "shiftendtime": null,
+                  "shiftname": "Third Shift",
+                  "id": "67ad836d-112d-4354-a95d-8f2a7144e3ad"
+                },
+                {
+                  "shiftstarttime": null,
+                  "shiftendtime": null,
+                  "shiftname": "First Shift",
+                  "id": "0b947677-ad5c-406c-9164-f6a372fae344"
+                },
+                {
+                  "shiftstarttime": null,
+                  "shiftendtime": null,
+                  "shiftname": "Second Shift",
+                  "id": "24d77366-7ef1-40d0-9d29-e094d759b03f"
+                }
+              ],
+              "id": "ab4d14d7-db29-457f-9638-ce77f8bb41c8"
+            },
+            {
+              "date": "2026-05-01",
+              "shiftid": "67ad836d-112d-4354-a95d-8f2a7144e3ad",
+              "shiftdata": [
+                {
+                  "shiftstarttime": null,
+                  "shiftendtime": null,
+                  "shiftname": "Third Shift",
+                  "id": "67ad836d-112d-4354-a95d-8f2a7144e3ad"
+                },
+                {
+                  "shiftstarttime": null,
+                  "shiftendtime": null,
+                  "shiftname": "First Shift",
+                  "id": "0b947677-ad5c-406c-9164-f6a372fae344"
+                },
+                {
+                  "shiftstarttime": null,
+                  "shiftendtime": null,
+                  "shiftname": "Second Shift",
+                  "id": "24d77366-7ef1-40d0-9d29-e094d759b03f"
+                }
+              ],
+              "id": "5ed92358-6eb2-4e41-8bb2-40f143deabab"
+            },
+            {
+              "date": "2026-05-01",
+              "shiftid": "24d77366-7ef1-40d0-9d29-e094d759b03f",
+              "shiftdata": [
+                {
+                  "shiftstarttime": null,
+                  "shiftendtime": null,
+                  "shiftname": "Third Shift",
+                  "id": "67ad836d-112d-4354-a95d-8f2a7144e3ad"
+                },
+                {
+                  "shiftstarttime": null,
+                  "shiftendtime": null,
+                  "shiftname": "First Shift",
+                  "id": "0b947677-ad5c-406c-9164-f6a372fae344"
+                },
+                {
+                  "shiftstarttime": null,
+                  "shiftendtime": null,
+                  "shiftname": "Second Shift",
+                  "id": "24d77366-7ef1-40d0-9d29-e094d759b03f"
+                }
+              ],
+              "id": "14f8c8fe-7db2-4ff5-8245-47932d2103db"
+            }
+          ],
+          "id": "9caf5555-99b3-4413-97d1-afcf367ada00",
+          "date": "2026-07-13T07:59:26.855Z",
+          "employeename": "Anand",
+          "employeenumber": "EMP-102"
+        },
+        "tsDate": "2026-07-13T07:59:26.855Z",
+        "exception": null,
+        "key": "9caf5555-99b3-4413-97d1-afcf367ada00",
+        "groupBy": null
+      },
+      {
+        "jsonData": {
+          "role": "Abhishek.G@Reactore.com",
+          "Details": [
+            {
+              "date": "2025-07-01",
+              "shiftid": "0b947677-ad5c-406c-9164-f6a372fae344",
+              "shiftdata": [
+                {
+                  "shiftstarttime": null,
+                  "shiftendtime": null,
+                  "shiftname": "Third Shift",
+                  "id": "67ad836d-112d-4354-a95d-8f2a7144e3ad"
+                },
+                {
+                  "shiftstarttime": null,
+                  "shiftendtime": null,
+                  "shiftname": "First Shift",
+                  "id": "0b947677-ad5c-406c-9164-f6a372fae344"
+                },
+                {
+                  "shiftstarttime": null,
+                  "shiftendtime": null,
+                  "shiftname": "Second Shift",
+                  "id": "24d77366-7ef1-40d0-9d29-e094d759b03f"
+                }
+              ],
+              "id": "18a2287f-ef74-4663-adb8-b07019f133f1"
+            },
+            {
+              "date": "2025-07-01",
+              "shiftid": "0b947677-ad5c-406c-9164-f6a372fae344",
+              "shiftdata": [
+                {
+                  "shiftstarttime": null,
+                  "shiftendtime": null,
+                  "shiftname": "Third Shift",
+                  "id": "67ad836d-112d-4354-a95d-8f2a7144e3ad"
+                },
+                {
+                  "shiftstarttime": null,
+                  "shiftendtime": null,
+                  "shiftname": "First Shift",
+                  "id": "0b947677-ad5c-406c-9164-f6a372fae344"
+                },
+                {
+                  "shiftstarttime": null,
+                  "shiftendtime": null,
+                  "shiftname": "Second Shift",
+                  "id": "24d77366-7ef1-40d0-9d29-e094d759b03f"
+                }
+              ],
+              "id": "db68dbdb-888d-4256-8a7f-b17196016998"
+            },
+            {
+              "date": "2025-07-01",
+              "shiftid": "0b947677-ad5c-406c-9164-f6a372fae344",
+              "shiftdata": [
+                {
+                  "shiftstarttime": null,
+                  "shiftendtime": null,
+                  "shiftname": "Third Shift",
+                  "id": "67ad836d-112d-4354-a95d-8f2a7144e3ad"
+                },
+                {
+                  "shiftstarttime": null,
+                  "shiftendtime": null,
+                  "shiftname": "First Shift",
+                  "id": "0b947677-ad5c-406c-9164-f6a372fae344"
+                },
+                {
+                  "shiftstarttime": null,
+                  "shiftendtime": null,
+                  "shiftname": "Second Shift",
+                  "id": "24d77366-7ef1-40d0-9d29-e094d759b03f"
+                }
+              ],
+              "id": "de107e1a-631d-4a3d-859d-af8dc31d53b3"
+            },
+            {
+              "date": "2025-07-01",
+              "shiftid": "24d77366-7ef1-40d0-9d29-e094d759b03f",
+              "shiftdata": [
+                {
+                  "shiftstarttime": null,
+                  "shiftendtime": null,
+                  "shiftname": "Third Shift",
+                  "id": "67ad836d-112d-4354-a95d-8f2a7144e3ad"
+                },
+                {
+                  "shiftstarttime": null,
+                  "shiftendtime": null,
+                  "shiftname": "First Shift",
+                  "id": "0b947677-ad5c-406c-9164-f6a372fae344"
+                },
+                {
+                  "shiftstarttime": null,
+                  "shiftendtime": null,
+                  "shiftname": "Second Shift",
+                  "id": "24d77366-7ef1-40d0-9d29-e094d759b03f"
+                }
+              ],
+              "id": "be5090b6-096b-41c2-9764-9236839fabb2"
+            },
+            {
+              "date": "2025-07-01",
+              "shiftid": "24d77366-7ef1-40d0-9d29-e094d759b03f",
+              "shiftdata": [
+                {
+                  "shiftstarttime": null,
+                  "shiftendtime": null,
+                  "shiftname": "Third Shift",
+                  "id": "67ad836d-112d-4354-a95d-8f2a7144e3ad"
+                },
+                {
+                  "shiftstarttime": null,
+                  "shiftendtime": null,
+                  "shiftname": "First Shift",
+                  "id": "0b947677-ad5c-406c-9164-f6a372fae344"
+                },
+                {
+                  "shiftstarttime": null,
+                  "shiftendtime": null,
+                  "shiftname": "Second Shift",
+                  "id": "24d77366-7ef1-40d0-9d29-e094d759b03f"
+                }
+              ],
+              "id": "87fdd54b-233a-4f15-bd4b-0f837a157f50"
+            },
+            {
+              "date": "2025-07-01",
+              "shiftid": "24d77366-7ef1-40d0-9d29-e094d759b03f",
+              "shiftdata": [
+                {
+                  "shiftstarttime": null,
+                  "shiftendtime": null,
+                  "shiftname": "Third Shift",
+                  "id": "67ad836d-112d-4354-a95d-8f2a7144e3ad"
+                },
+                {
+                  "shiftstarttime": null,
+                  "shiftendtime": null,
+                  "shiftname": "First Shift",
+                  "id": "0b947677-ad5c-406c-9164-f6a372fae344"
+                },
+                {
+                  "shiftstarttime": null,
+                  "shiftendtime": null,
+                  "shiftname": "Second Shift",
+                  "id": "24d77366-7ef1-40d0-9d29-e094d759b03f"
+                }
+              ],
+              "id": "bd92e1f5-e522-4a78-9698-4a6ae0e5ad2a"
+            },
+            {
+              "date": "2025-06-01",
+              "shiftid": "0b947677-ad5c-406c-9164-f6a372fae344",
+              "shiftdata": [
+                {
+                  "shiftstarttime": null,
+                  "shiftendtime": null,
+                  "shiftname": "Third Shift",
+                  "id": "67ad836d-112d-4354-a95d-8f2a7144e3ad"
+                },
+                {
+                  "shiftstarttime": null,
+                  "shiftendtime": null,
+                  "shiftname": "First Shift",
+                  "id": "0b947677-ad5c-406c-9164-f6a372fae344"
+                },
+                {
+                  "shiftstarttime": null,
+                  "shiftendtime": null,
+                  "shiftname": "Second Shift",
+                  "id": "24d77366-7ef1-40d0-9d29-e094d759b03f"
+                }
+              ],
+              "id": "28d10563-6c07-4ef5-b793-89febaf77dd4"
+            },
+            {
+              "date": "2025-06-01",
+              "shiftid": "67ad836d-112d-4354-a95d-8f2a7144e3ad",
+              "shiftdata": [
+                {
+                  "shiftstarttime": null,
+                  "shiftendtime": null,
+                  "shiftname": "Third Shift",
+                  "id": "67ad836d-112d-4354-a95d-8f2a7144e3ad"
+                },
+                {
+                  "shiftstarttime": null,
+                  "shiftendtime": null,
+                  "shiftname": "First Shift",
+                  "id": "0b947677-ad5c-406c-9164-f6a372fae344"
+                },
+                {
+                  "shiftstarttime": null,
+                  "shiftendtime": null,
+                  "shiftname": "Second Shift",
+                  "id": "24d77366-7ef1-40d0-9d29-e094d759b03f"
+                }
+              ],
+              "id": "5ab95dfa-62c7-4ec2-b243-0bc29eac9a46"
+            },
+            {
+              "date": "2025-07-01",
+              "shiftid": "24d77366-7ef1-40d0-9d29-e094d759b03f",
+              "shiftdata": [
+                {
+                  "shiftstarttime": null,
+                  "shiftendtime": null,
+                  "shiftname": "Third Shift",
+                  "id": "67ad836d-112d-4354-a95d-8f2a7144e3ad"
+                },
+                {
+                  "shiftstarttime": null,
+                  "shiftendtime": null,
+                  "shiftname": "First Shift",
+                  "id": "0b947677-ad5c-406c-9164-f6a372fae344"
+                },
+                {
+                  "shiftstarttime": null,
+                  "shiftendtime": null,
+                  "shiftname": "Second Shift",
+                  "id": "24d77366-7ef1-40d0-9d29-e094d759b03f"
+                }
+              ],
+              "id": "9c8d5148-bfc1-492c-99dd-6835f3a1fe6e"
+            },
+            {
+              "date": "2025-09-01",
+              "shiftid": "67ad836d-112d-4354-a95d-8f2a7144e3ad",
+              "shiftdata": [
+                {
+                  "shiftstarttime": null,
+                  "shiftendtime": null,
+                  "shiftname": "Third Shift",
+                  "id": "67ad836d-112d-4354-a95d-8f2a7144e3ad"
+                },
+                {
+                  "shiftstarttime": null,
+                  "shiftendtime": null,
+                  "shiftname": "First Shift",
+                  "id": "0b947677-ad5c-406c-9164-f6a372fae344"
+                },
+                {
+                  "shiftstarttime": null,
+                  "shiftendtime": null,
+                  "shiftname": "Second Shift",
+                  "id": "24d77366-7ef1-40d0-9d29-e094d759b03f"
+                }
+              ],
+              "id": "fa3a937c-1a6e-467e-9c0b-ef7fb0dea600"
+            },
+            {
+              "date": "2025-08-26",
+              "shiftid": "67ad836d-112d-4354-a95d-8f2a7144e3ad",
+              "shiftdata": [
+                {
+                  "shiftstarttime": null,
+                  "shiftendtime": null,
+                  "shiftname": "Third Shift",
+                  "id": "67ad836d-112d-4354-a95d-8f2a7144e3ad"
+                },
+                {
+                  "shiftstarttime": null,
+                  "shiftendtime": null,
+                  "shiftname": "First Shift",
+                  "id": "0b947677-ad5c-406c-9164-f6a372fae344"
+                },
+                {
+                  "shiftstarttime": null,
+                  "shiftendtime": null,
+                  "shiftname": "Second Shift",
+                  "id": "24d77366-7ef1-40d0-9d29-e094d759b03f"
+                }
+              ],
+              "id": "1ae47d9b-ec20-49a0-b378-3752310c4083"
+            },
+            {
+              "date": "2025-08-28",
+              "shiftid": "67ad836d-112d-4354-a95d-8f2a7144e3ad",
+              "shiftdata": [
+                {
+                  "shiftstarttime": null,
+                  "shiftendtime": null,
+                  "shiftname": "Third Shift",
+                  "id": "67ad836d-112d-4354-a95d-8f2a7144e3ad"
+                },
+                {
+                  "shiftstarttime": null,
+                  "shiftendtime": null,
+                  "shiftname": "First Shift",
+                  "id": "0b947677-ad5c-406c-9164-f6a372fae344"
+                },
+                {
+                  "shiftstarttime": null,
+                  "shiftendtime": null,
+                  "shiftname": "Second Shift",
+                  "id": "24d77366-7ef1-40d0-9d29-e094d759b03f"
+                }
+              ],
+              "id": "573d4035-67bf-44e7-aff8-9cb47005f0dd"
+            },
+            {
+              "date": "2025-09-17",
+              "shiftid": "67ad836d-112d-4354-a95d-8f2a7144e3ad",
+              "shiftdata": [
+                {
+                  "shiftstarttime": null,
+                  "shiftendtime": null,
+                  "shiftname": "Third Shift",
+                  "id": "67ad836d-112d-4354-a95d-8f2a7144e3ad"
+                },
+                {
+                  "shiftstarttime": null,
+                  "shiftendtime": null,
+                  "shiftname": "First Shift",
+                  "id": "0b947677-ad5c-406c-9164-f6a372fae344"
+                },
+                {
+                  "shiftstarttime": null,
+                  "shiftendtime": null,
+                  "shiftname": "Second Shift",
+                  "id": "24d77366-7ef1-40d0-9d29-e094d759b03f"
+                }
+              ],
+              "id": "148ecb13-fcd9-4b18-af86-ea5de22dd9b3"
+            },
+            {
+              "date": "2025-09-17",
+              "shiftid": "67ad836d-112d-4354-a95d-8f2a7144e3ad",
+              "shiftdata": [
+                {
+                  "shiftstarttime": null,
+                  "shiftendtime": null,
+                  "shiftname": "Third Shift",
+                  "id": "67ad836d-112d-4354-a95d-8f2a7144e3ad"
+                },
+                {
+                  "shiftstarttime": null,
+                  "shiftendtime": null,
+                  "shiftname": "First Shift",
+                  "id": "0b947677-ad5c-406c-9164-f6a372fae344"
+                },
+                {
+                  "shiftstarttime": null,
+                  "shiftendtime": null,
+                  "shiftname": "Second Shift",
+                  "id": "24d77366-7ef1-40d0-9d29-e094d759b03f"
+                }
+              ],
+              "id": "68963943-4744-498f-ba17-9c502c45eba4"
+            },
+            {
+              "date": "2025-10-01",
+              "shiftid": "67ad836d-112d-4354-a95d-8f2a7144e3ad",
+              "shiftdata": [
+                {
+                  "shiftstarttime": null,
+                  "shiftendtime": null,
+                  "shiftname": "Third Shift",
+                  "id": "67ad836d-112d-4354-a95d-8f2a7144e3ad"
+                },
+                {
+                  "shiftstarttime": null,
+                  "shiftendtime": null,
+                  "shiftname": "First Shift",
+                  "id": "0b947677-ad5c-406c-9164-f6a372fae344"
+                },
+                {
+                  "shiftstarttime": null,
+                  "shiftendtime": null,
+                  "shiftname": "Second Shift",
+                  "id": "24d77366-7ef1-40d0-9d29-e094d759b03f"
+                }
+              ],
+              "id": "b11165d9-d5ea-430d-b7c5-560990625055"
+            },
+            {
+              "date": "2025-10-01",
+              "shiftid": "67ad836d-112d-4354-a95d-8f2a7144e3ad",
+              "shiftdata": [
+                {
+                  "shiftstarttime": null,
+                  "shiftendtime": null,
+                  "shiftname": "Third Shift",
+                  "id": "67ad836d-112d-4354-a95d-8f2a7144e3ad"
+                },
+                {
+                  "shiftstarttime": null,
+                  "shiftendtime": null,
+                  "shiftname": "First Shift",
+                  "id": "0b947677-ad5c-406c-9164-f6a372fae344"
+                },
+                {
+                  "shiftstarttime": null,
+                  "shiftendtime": null,
+                  "shiftname": "Second Shift",
+                  "id": "24d77366-7ef1-40d0-9d29-e094d759b03f"
+                }
+              ],
+              "id": "bf15ff75-413b-40e6-9c8b-884fb994d952"
+            },
+            {
+              "date": "2025-10-01",
+              "shiftid": "67ad836d-112d-4354-a95d-8f2a7144e3ad",
+              "shiftdata": [
+                {
+                  "shiftstarttime": null,
+                  "shiftendtime": null,
+                  "shiftname": "Third Shift",
+                  "id": "67ad836d-112d-4354-a95d-8f2a7144e3ad"
+                },
+                {
+                  "shiftstarttime": null,
+                  "shiftendtime": null,
+                  "shiftname": "First Shift",
+                  "id": "0b947677-ad5c-406c-9164-f6a372fae344"
+                },
+                {
+                  "shiftstarttime": null,
+                  "shiftendtime": null,
+                  "shiftname": "Second Shift",
+                  "id": "24d77366-7ef1-40d0-9d29-e094d759b03f"
+                }
+              ],
+              "id": "147e9bc2-0033-4279-a972-716d02ed4ae8"
+            },
+            {
+              "date": "2025-11-01",
+              "shiftid": "24d77366-7ef1-40d0-9d29-e094d759b03f",
+              "shiftdata": [
+                {
+                  "shiftstarttime": null,
+                  "shiftendtime": null,
+                  "shiftname": "Third Shift",
+                  "id": "67ad836d-112d-4354-a95d-8f2a7144e3ad"
+                },
+                {
+                  "shiftstarttime": null,
+                  "shiftendtime": null,
+                  "shiftname": "First Shift",
+                  "id": "0b947677-ad5c-406c-9164-f6a372fae344"
+                },
+                {
+                  "shiftstarttime": null,
+                  "shiftendtime": null,
+                  "shiftname": "Second Shift",
+                  "id": "24d77366-7ef1-40d0-9d29-e094d759b03f"
+                }
+              ],
+              "id": "0ed771b4-0fb8-4979-9d66-257ed4dab2b9"
+            },
+            {
+              "date": "2025-11-01",
+              "shiftid": "24d77366-7ef1-40d0-9d29-e094d759b03f",
+              "shiftdata": [
+                {
+                  "shiftstarttime": null,
+                  "shiftendtime": null,
+                  "shiftname": "Third Shift",
+                  "id": "67ad836d-112d-4354-a95d-8f2a7144e3ad"
+                },
+                {
+                  "shiftstarttime": null,
+                  "shiftendtime": null,
+                  "shiftname": "First Shift",
+                  "id": "0b947677-ad5c-406c-9164-f6a372fae344"
+                },
+                {
+                  "shiftstarttime": null,
+                  "shiftendtime": null,
+                  "shiftname": "Second Shift",
+                  "id": "24d77366-7ef1-40d0-9d29-e094d759b03f"
+                }
+              ],
+              "id": "322afcf2-6056-4da0-adac-dc048ff3eee9"
+            },
+            {
+              "date": "2025-11-01",
+              "shiftid": "24d77366-7ef1-40d0-9d29-e094d759b03f",
+              "shiftdata": [
+                {
+                  "shiftstarttime": null,
+                  "shiftendtime": null,
+                  "shiftname": "Third Shift",
+                  "id": "67ad836d-112d-4354-a95d-8f2a7144e3ad"
+                },
+                {
+                  "shiftstarttime": null,
+                  "shiftendtime": null,
+                  "shiftname": "First Shift",
+                  "id": "0b947677-ad5c-406c-9164-f6a372fae344"
+                },
+                {
+                  "shiftstarttime": null,
+                  "shiftendtime": null,
+                  "shiftname": "Second Shift",
+                  "id": "24d77366-7ef1-40d0-9d29-e094d759b03f"
+                }
+              ],
+              "id": "3a300de7-10b6-4e7d-b1c9-9dbe07b7c875"
+            },
+            {
+              "date": "2025-11-01",
+              "shiftid": "24d77366-7ef1-40d0-9d29-e094d759b03f",
+              "shiftdata": [
+                {
+                  "shiftstarttime": null,
+                  "shiftendtime": null,
+                  "shiftname": "Third Shift",
+                  "id": "67ad836d-112d-4354-a95d-8f2a7144e3ad"
+                },
+                {
+                  "shiftstarttime": null,
+                  "shiftendtime": null,
+                  "shiftname": "First Shift",
+                  "id": "0b947677-ad5c-406c-9164-f6a372fae344"
+                },
+                {
+                  "shiftstarttime": null,
+                  "shiftendtime": null,
+                  "shiftname": "Second Shift",
+                  "id": "24d77366-7ef1-40d0-9d29-e094d759b03f"
+                }
+              ],
+              "id": "d5d01fec-7cb3-4376-9743-9b83a110d309"
+            },
+            {
+              "date": "2025-12-01",
+              "shiftid": "24d77366-7ef1-40d0-9d29-e094d759b03f",
+              "shiftdata": [
+                {
+                  "shiftstarttime": null,
+                  "shiftendtime": null,
+                  "shiftname": "Third Shift",
+                  "id": "67ad836d-112d-4354-a95d-8f2a7144e3ad"
+                },
+                {
+                  "shiftstarttime": null,
+                  "shiftendtime": null,
+                  "shiftname": "First Shift",
+                  "id": "0b947677-ad5c-406c-9164-f6a372fae344"
+                },
+                {
+                  "shiftstarttime": null,
+                  "shiftendtime": null,
+                  "shiftname": "Second Shift",
+                  "id": "24d77366-7ef1-40d0-9d29-e094d759b03f"
+                }
+              ],
+              "id": "96700f84-ffda-4201-92da-f966a4d25658"
+            },
+            {
+              "date": "2025-12-01",
+              "shiftid": "24d77366-7ef1-40d0-9d29-e094d759b03f",
+              "shiftdata": [
+                {
+                  "shiftstarttime": null,
+                  "shiftendtime": null,
+                  "shiftname": "Third Shift",
+                  "id": "67ad836d-112d-4354-a95d-8f2a7144e3ad"
+                },
+                {
+                  "shiftstarttime": null,
+                  "shiftendtime": null,
+                  "shiftname": "First Shift",
+                  "id": "0b947677-ad5c-406c-9164-f6a372fae344"
+                },
+                {
+                  "shiftstarttime": null,
+                  "shiftendtime": null,
+                  "shiftname": "Second Shift",
+                  "id": "24d77366-7ef1-40d0-9d29-e094d759b03f"
+                }
+              ],
+              "id": "ab4d14d7-db29-457f-9638-ce77f8bb41c8"
+            },
+            {
+              "date": "2026-05-01",
+              "shiftid": "67ad836d-112d-4354-a95d-8f2a7144e3ad",
+              "shiftdata": [
+                {
+                  "shiftstarttime": null,
+                  "shiftendtime": null,
+                  "shiftname": "Third Shift",
+                  "id": "67ad836d-112d-4354-a95d-8f2a7144e3ad"
+                },
+                {
+                  "shiftstarttime": null,
+                  "shiftendtime": null,
+                  "shiftname": "First Shift",
+                  "id": "0b947677-ad5c-406c-9164-f6a372fae344"
+                },
+                {
+                  "shiftstarttime": null,
+                  "shiftendtime": null,
+                  "shiftname": "Second Shift",
+                  "id": "24d77366-7ef1-40d0-9d29-e094d759b03f"
+                }
+              ],
+              "id": "5ed92358-6eb2-4e41-8bb2-40f143deabab"
+            },
+            {
+              "date": "2026-05-01",
+              "shiftid": "24d77366-7ef1-40d0-9d29-e094d759b03f",
+              "shiftdata": [
+                {
+                  "shiftstarttime": null,
+                  "shiftendtime": null,
+                  "shiftname": "Third Shift",
+                  "id": "67ad836d-112d-4354-a95d-8f2a7144e3ad"
+                },
+                {
+                  "shiftstarttime": null,
+                  "shiftendtime": null,
+                  "shiftname": "First Shift",
+                  "id": "0b947677-ad5c-406c-9164-f6a372fae344"
+                },
+                {
+                  "shiftstarttime": null,
+                  "shiftendtime": null,
+                  "shiftname": "Second Shift",
+                  "id": "24d77366-7ef1-40d0-9d29-e094d759b03f"
+                }
+              ],
+              "id": "14f8c8fe-7db2-4ff5-8245-47932d2103db"
+            }
+          ],
+          "id": "3fc1f032-b7f2-45a6-8b8d-5f7527d95341",
+          "date": "2026-07-13T07:59:29.175Z",
+          "employeename": "Rudra",
+          "employeenumber": "EMP-101"
+        },
+        "tsDate": "2026-07-13T07:59:29.175Z",
+        "exception": null,
+        "key": "3fc1f032-b7f2-45a6-8b8d-5f7527d95341",
+        "groupBy": null
+      },
+      {
+        "jsonData": {
+          "role": null,
+          "Details": [
+            {
+              "date": "2025-07-01",
+              "shiftid": "0b947677-ad5c-406c-9164-f6a372fae344",
+              "shiftdata": [
+                {
+                  "shiftstarttime": null,
+                  "shiftendtime": null,
+                  "shiftname": "Third Shift",
+                  "id": "67ad836d-112d-4354-a95d-8f2a7144e3ad"
+                },
+                {
+                  "shiftstarttime": null,
+                  "shiftendtime": null,
+                  "shiftname": "First Shift",
+                  "id": "0b947677-ad5c-406c-9164-f6a372fae344"
+                },
+                {
+                  "shiftstarttime": null,
+                  "shiftendtime": null,
+                  "shiftname": "Second Shift",
+                  "id": "24d77366-7ef1-40d0-9d29-e094d759b03f"
+                }
+              ],
+              "id": "18a2287f-ef74-4663-adb8-b07019f133f1"
+            },
+            {
+              "date": "2025-07-01",
+              "shiftid": "0b947677-ad5c-406c-9164-f6a372fae344",
+              "shiftdata": [
+                {
+                  "shiftstarttime": null,
+                  "shiftendtime": null,
+                  "shiftname": "Third Shift",
+                  "id": "67ad836d-112d-4354-a95d-8f2a7144e3ad"
+                },
+                {
+                  "shiftstarttime": null,
+                  "shiftendtime": null,
+                  "shiftname": "First Shift",
+                  "id": "0b947677-ad5c-406c-9164-f6a372fae344"
+                },
+                {
+                  "shiftstarttime": null,
+                  "shiftendtime": null,
+                  "shiftname": "Second Shift",
+                  "id": "24d77366-7ef1-40d0-9d29-e094d759b03f"
+                }
+              ],
+              "id": "db68dbdb-888d-4256-8a7f-b17196016998"
+            },
+            {
+              "date": "2025-07-01",
+              "shiftid": "0b947677-ad5c-406c-9164-f6a372fae344",
+              "shiftdata": [
+                {
+                  "shiftstarttime": null,
+                  "shiftendtime": null,
+                  "shiftname": "Third Shift",
+                  "id": "67ad836d-112d-4354-a95d-8f2a7144e3ad"
+                },
+                {
+                  "shiftstarttime": null,
+                  "shiftendtime": null,
+                  "shiftname": "First Shift",
+                  "id": "0b947677-ad5c-406c-9164-f6a372fae344"
+                },
+                {
+                  "shiftstarttime": null,
+                  "shiftendtime": null,
+                  "shiftname": "Second Shift",
+                  "id": "24d77366-7ef1-40d0-9d29-e094d759b03f"
+                }
+              ],
+              "id": "de107e1a-631d-4a3d-859d-af8dc31d53b3"
+            },
+            {
+              "date": "2025-07-01",
+              "shiftid": "24d77366-7ef1-40d0-9d29-e094d759b03f",
+              "shiftdata": [
+                {
+                  "shiftstarttime": null,
+                  "shiftendtime": null,
+                  "shiftname": "Third Shift",
+                  "id": "67ad836d-112d-4354-a95d-8f2a7144e3ad"
+                },
+                {
+                  "shiftstarttime": null,
+                  "shiftendtime": null,
+                  "shiftname": "First Shift",
+                  "id": "0b947677-ad5c-406c-9164-f6a372fae344"
+                },
+                {
+                  "shiftstarttime": null,
+                  "shiftendtime": null,
+                  "shiftname": "Second Shift",
+                  "id": "24d77366-7ef1-40d0-9d29-e094d759b03f"
+                }
+              ],
+              "id": "be5090b6-096b-41c2-9764-9236839fabb2"
+            },
+            {
+              "date": "2025-07-01",
+              "shiftid": "24d77366-7ef1-40d0-9d29-e094d759b03f",
+              "shiftdata": [
+                {
+                  "shiftstarttime": null,
+                  "shiftendtime": null,
+                  "shiftname": "Third Shift",
+                  "id": "67ad836d-112d-4354-a95d-8f2a7144e3ad"
+                },
+                {
+                  "shiftstarttime": null,
+                  "shiftendtime": null,
+                  "shiftname": "First Shift",
+                  "id": "0b947677-ad5c-406c-9164-f6a372fae344"
+                },
+                {
+                  "shiftstarttime": null,
+                  "shiftendtime": null,
+                  "shiftname": "Second Shift",
+                  "id": "24d77366-7ef1-40d0-9d29-e094d759b03f"
+                }
+              ],
+              "id": "87fdd54b-233a-4f15-bd4b-0f837a157f50"
+            },
+            {
+              "date": "2025-07-01",
+              "shiftid": "24d77366-7ef1-40d0-9d29-e094d759b03f",
+              "shiftdata": [
+                {
+                  "shiftstarttime": null,
+                  "shiftendtime": null,
+                  "shiftname": "Third Shift",
+                  "id": "67ad836d-112d-4354-a95d-8f2a7144e3ad"
+                },
+                {
+                  "shiftstarttime": null,
+                  "shiftendtime": null,
+                  "shiftname": "First Shift",
+                  "id": "0b947677-ad5c-406c-9164-f6a372fae344"
+                },
+                {
+                  "shiftstarttime": null,
+                  "shiftendtime": null,
+                  "shiftname": "Second Shift",
+                  "id": "24d77366-7ef1-40d0-9d29-e094d759b03f"
+                }
+              ],
+              "id": "bd92e1f5-e522-4a78-9698-4a6ae0e5ad2a"
+            },
+            {
+              "date": "2025-06-01",
+              "shiftid": "0b947677-ad5c-406c-9164-f6a372fae344",
+              "shiftdata": [
+                {
+                  "shiftstarttime": null,
+                  "shiftendtime": null,
+                  "shiftname": "Third Shift",
+                  "id": "67ad836d-112d-4354-a95d-8f2a7144e3ad"
+                },
+                {
+                  "shiftstarttime": null,
+                  "shiftendtime": null,
+                  "shiftname": "First Shift",
+                  "id": "0b947677-ad5c-406c-9164-f6a372fae344"
+                },
+                {
+                  "shiftstarttime": null,
+                  "shiftendtime": null,
+                  "shiftname": "Second Shift",
+                  "id": "24d77366-7ef1-40d0-9d29-e094d759b03f"
+                }
+              ],
+              "id": "28d10563-6c07-4ef5-b793-89febaf77dd4"
+            },
+            {
+              "date": "2025-06-01",
+              "shiftid": "67ad836d-112d-4354-a95d-8f2a7144e3ad",
+              "shiftdata": [
+                {
+                  "shiftstarttime": null,
+                  "shiftendtime": null,
+                  "shiftname": "Third Shift",
+                  "id": "67ad836d-112d-4354-a95d-8f2a7144e3ad"
+                },
+                {
+                  "shiftstarttime": null,
+                  "shiftendtime": null,
+                  "shiftname": "First Shift",
+                  "id": "0b947677-ad5c-406c-9164-f6a372fae344"
+                },
+                {
+                  "shiftstarttime": null,
+                  "shiftendtime": null,
+                  "shiftname": "Second Shift",
+                  "id": "24d77366-7ef1-40d0-9d29-e094d759b03f"
+                }
+              ],
+              "id": "5ab95dfa-62c7-4ec2-b243-0bc29eac9a46"
+            },
+            {
+              "date": "2025-07-01",
+              "shiftid": "24d77366-7ef1-40d0-9d29-e094d759b03f",
+              "shiftdata": [
+                {
+                  "shiftstarttime": null,
+                  "shiftendtime": null,
+                  "shiftname": "Third Shift",
+                  "id": "67ad836d-112d-4354-a95d-8f2a7144e3ad"
+                },
+                {
+                  "shiftstarttime": null,
+                  "shiftendtime": null,
+                  "shiftname": "First Shift",
+                  "id": "0b947677-ad5c-406c-9164-f6a372fae344"
+                },
+                {
+                  "shiftstarttime": null,
+                  "shiftendtime": null,
+                  "shiftname": "Second Shift",
+                  "id": "24d77366-7ef1-40d0-9d29-e094d759b03f"
+                }
+              ],
+              "id": "9c8d5148-bfc1-492c-99dd-6835f3a1fe6e"
+            },
+            {
+              "date": "2025-09-01",
+              "shiftid": "67ad836d-112d-4354-a95d-8f2a7144e3ad",
+              "shiftdata": [
+                {
+                  "shiftstarttime": null,
+                  "shiftendtime": null,
+                  "shiftname": "Third Shift",
+                  "id": "67ad836d-112d-4354-a95d-8f2a7144e3ad"
+                },
+                {
+                  "shiftstarttime": null,
+                  "shiftendtime": null,
+                  "shiftname": "First Shift",
+                  "id": "0b947677-ad5c-406c-9164-f6a372fae344"
+                },
+                {
+                  "shiftstarttime": null,
+                  "shiftendtime": null,
+                  "shiftname": "Second Shift",
+                  "id": "24d77366-7ef1-40d0-9d29-e094d759b03f"
+                }
+              ],
+              "id": "fa3a937c-1a6e-467e-9c0b-ef7fb0dea600"
+            },
+            {
+              "date": "2025-08-26",
+              "shiftid": "67ad836d-112d-4354-a95d-8f2a7144e3ad",
+              "shiftdata": [
+                {
+                  "shiftstarttime": null,
+                  "shiftendtime": null,
+                  "shiftname": "Third Shift",
+                  "id": "67ad836d-112d-4354-a95d-8f2a7144e3ad"
+                },
+                {
+                  "shiftstarttime": null,
+                  "shiftendtime": null,
+                  "shiftname": "First Shift",
+                  "id": "0b947677-ad5c-406c-9164-f6a372fae344"
+                },
+                {
+                  "shiftstarttime": null,
+                  "shiftendtime": null,
+                  "shiftname": "Second Shift",
+                  "id": "24d77366-7ef1-40d0-9d29-e094d759b03f"
+                }
+              ],
+              "id": "1ae47d9b-ec20-49a0-b378-3752310c4083"
+            },
+            {
+              "date": "2025-08-28",
+              "shiftid": "67ad836d-112d-4354-a95d-8f2a7144e3ad",
+              "shiftdata": [
+                {
+                  "shiftstarttime": null,
+                  "shiftendtime": null,
+                  "shiftname": "Third Shift",
+                  "id": "67ad836d-112d-4354-a95d-8f2a7144e3ad"
+                },
+                {
+                  "shiftstarttime": null,
+                  "shiftendtime": null,
+                  "shiftname": "First Shift",
+                  "id": "0b947677-ad5c-406c-9164-f6a372fae344"
+                },
+                {
+                  "shiftstarttime": null,
+                  "shiftendtime": null,
+                  "shiftname": "Second Shift",
+                  "id": "24d77366-7ef1-40d0-9d29-e094d759b03f"
+                }
+              ],
+              "id": "573d4035-67bf-44e7-aff8-9cb47005f0dd"
+            },
+            {
+              "date": "2025-09-17",
+              "shiftid": "67ad836d-112d-4354-a95d-8f2a7144e3ad",
+              "shiftdata": [
+                {
+                  "shiftstarttime": null,
+                  "shiftendtime": null,
+                  "shiftname": "Third Shift",
+                  "id": "67ad836d-112d-4354-a95d-8f2a7144e3ad"
+                },
+                {
+                  "shiftstarttime": null,
+                  "shiftendtime": null,
+                  "shiftname": "First Shift",
+                  "id": "0b947677-ad5c-406c-9164-f6a372fae344"
+                },
+                {
+                  "shiftstarttime": null,
+                  "shiftendtime": null,
+                  "shiftname": "Second Shift",
+                  "id": "24d77366-7ef1-40d0-9d29-e094d759b03f"
+                }
+              ],
+              "id": "148ecb13-fcd9-4b18-af86-ea5de22dd9b3"
+            },
+            {
+              "date": "2025-09-17",
+              "shiftid": "67ad836d-112d-4354-a95d-8f2a7144e3ad",
+              "shiftdata": [
+                {
+                  "shiftstarttime": null,
+                  "shiftendtime": null,
+                  "shiftname": "Third Shift",
+                  "id": "67ad836d-112d-4354-a95d-8f2a7144e3ad"
+                },
+                {
+                  "shiftstarttime": null,
+                  "shiftendtime": null,
+                  "shiftname": "First Shift",
+                  "id": "0b947677-ad5c-406c-9164-f6a372fae344"
+                },
+                {
+                  "shiftstarttime": null,
+                  "shiftendtime": null,
+                  "shiftname": "Second Shift",
+                  "id": "24d77366-7ef1-40d0-9d29-e094d759b03f"
+                }
+              ],
+              "id": "68963943-4744-498f-ba17-9c502c45eba4"
+            },
+            {
+              "date": "2025-10-01",
+              "shiftid": "67ad836d-112d-4354-a95d-8f2a7144e3ad",
+              "shiftdata": [
+                {
+                  "shiftstarttime": null,
+                  "shiftendtime": null,
+                  "shiftname": "Third Shift",
+                  "id": "67ad836d-112d-4354-a95d-8f2a7144e3ad"
+                },
+                {
+                  "shiftstarttime": null,
+                  "shiftendtime": null,
+                  "shiftname": "First Shift",
+                  "id": "0b947677-ad5c-406c-9164-f6a372fae344"
+                },
+                {
+                  "shiftstarttime": null,
+                  "shiftendtime": null,
+                  "shiftname": "Second Shift",
+                  "id": "24d77366-7ef1-40d0-9d29-e094d759b03f"
+                }
+              ],
+              "id": "b11165d9-d5ea-430d-b7c5-560990625055"
+            },
+            {
+              "date": "2025-10-01",
+              "shiftid": "67ad836d-112d-4354-a95d-8f2a7144e3ad",
+              "shiftdata": [
+                {
+                  "shiftstarttime": null,
+                  "shiftendtime": null,
+                  "shiftname": "Third Shift",
+                  "id": "67ad836d-112d-4354-a95d-8f2a7144e3ad"
+                },
+                {
+                  "shiftstarttime": null,
+                  "shiftendtime": null,
+                  "shiftname": "First Shift",
+                  "id": "0b947677-ad5c-406c-9164-f6a372fae344"
+                },
+                {
+                  "shiftstarttime": null,
+                  "shiftendtime": null,
+                  "shiftname": "Second Shift",
+                  "id": "24d77366-7ef1-40d0-9d29-e094d759b03f"
+                }
+              ],
+              "id": "bf15ff75-413b-40e6-9c8b-884fb994d952"
+            },
+            {
+              "date": "2025-10-01",
+              "shiftid": "67ad836d-112d-4354-a95d-8f2a7144e3ad",
+              "shiftdata": [
+                {
+                  "shiftstarttime": null,
+                  "shiftendtime": null,
+                  "shiftname": "Third Shift",
+                  "id": "67ad836d-112d-4354-a95d-8f2a7144e3ad"
+                },
+                {
+                  "shiftstarttime": null,
+                  "shiftendtime": null,
+                  "shiftname": "First Shift",
+                  "id": "0b947677-ad5c-406c-9164-f6a372fae344"
+                },
+                {
+                  "shiftstarttime": null,
+                  "shiftendtime": null,
+                  "shiftname": "Second Shift",
+                  "id": "24d77366-7ef1-40d0-9d29-e094d759b03f"
+                }
+              ],
+              "id": "147e9bc2-0033-4279-a972-716d02ed4ae8"
+            },
+            {
+              "date": "2025-11-01",
+              "shiftid": "24d77366-7ef1-40d0-9d29-e094d759b03f",
+              "shiftdata": [
+                {
+                  "shiftstarttime": null,
+                  "shiftendtime": null,
+                  "shiftname": "Third Shift",
+                  "id": "67ad836d-112d-4354-a95d-8f2a7144e3ad"
+                },
+                {
+                  "shiftstarttime": null,
+                  "shiftendtime": null,
+                  "shiftname": "First Shift",
+                  "id": "0b947677-ad5c-406c-9164-f6a372fae344"
+                },
+                {
+                  "shiftstarttime": null,
+                  "shiftendtime": null,
+                  "shiftname": "Second Shift",
+                  "id": "24d77366-7ef1-40d0-9d29-e094d759b03f"
+                }
+              ],
+              "id": "0ed771b4-0fb8-4979-9d66-257ed4dab2b9"
+            },
+            {
+              "date": "2025-11-01",
+              "shiftid": "24d77366-7ef1-40d0-9d29-e094d759b03f",
+              "shiftdata": [
+                {
+                  "shiftstarttime": null,
+                  "shiftendtime": null,
+                  "shiftname": "Third Shift",
+                  "id": "67ad836d-112d-4354-a95d-8f2a7144e3ad"
+                },
+                {
+                  "shiftstarttime": null,
+                  "shiftendtime": null,
+                  "shiftname": "First Shift",
+                  "id": "0b947677-ad5c-406c-9164-f6a372fae344"
+                },
+                {
+                  "shiftstarttime": null,
+                  "shiftendtime": null,
+                  "shiftname": "Second Shift",
+                  "id": "24d77366-7ef1-40d0-9d29-e094d759b03f"
+                }
+              ],
+              "id": "322afcf2-6056-4da0-adac-dc048ff3eee9"
+            },
+            {
+              "date": "2025-11-01",
+              "shiftid": "24d77366-7ef1-40d0-9d29-e094d759b03f",
+              "shiftdata": [
+                {
+                  "shiftstarttime": null,
+                  "shiftendtime": null,
+                  "shiftname": "Third Shift",
+                  "id": "67ad836d-112d-4354-a95d-8f2a7144e3ad"
+                },
+                {
+                  "shiftstarttime": null,
+                  "shiftendtime": null,
+                  "shiftname": "First Shift",
+                  "id": "0b947677-ad5c-406c-9164-f6a372fae344"
+                },
+                {
+                  "shiftstarttime": null,
+                  "shiftendtime": null,
+                  "shiftname": "Second Shift",
+                  "id": "24d77366-7ef1-40d0-9d29-e094d759b03f"
+                }
+              ],
+              "id": "3a300de7-10b6-4e7d-b1c9-9dbe07b7c875"
+            },
+            {
+              "date": "2025-11-01",
+              "shiftid": "24d77366-7ef1-40d0-9d29-e094d759b03f",
+              "shiftdata": [
+                {
+                  "shiftstarttime": null,
+                  "shiftendtime": null,
+                  "shiftname": "Third Shift",
+                  "id": "67ad836d-112d-4354-a95d-8f2a7144e3ad"
+                },
+                {
+                  "shiftstarttime": null,
+                  "shiftendtime": null,
+                  "shiftname": "First Shift",
+                  "id": "0b947677-ad5c-406c-9164-f6a372fae344"
+                },
+                {
+                  "shiftstarttime": null,
+                  "shiftendtime": null,
+                  "shiftname": "Second Shift",
+                  "id": "24d77366-7ef1-40d0-9d29-e094d759b03f"
+                }
+              ],
+              "id": "d5d01fec-7cb3-4376-9743-9b83a110d309"
+            },
+            {
+              "date": "2025-12-01",
+              "shiftid": "24d77366-7ef1-40d0-9d29-e094d759b03f",
+              "shiftdata": [
+                {
+                  "shiftstarttime": null,
+                  "shiftendtime": null,
+                  "shiftname": "Third Shift",
+                  "id": "67ad836d-112d-4354-a95d-8f2a7144e3ad"
+                },
+                {
+                  "shiftstarttime": null,
+                  "shiftendtime": null,
+                  "shiftname": "First Shift",
+                  "id": "0b947677-ad5c-406c-9164-f6a372fae344"
+                },
+                {
+                  "shiftstarttime": null,
+                  "shiftendtime": null,
+                  "shiftname": "Second Shift",
+                  "id": "24d77366-7ef1-40d0-9d29-e094d759b03f"
+                }
+              ],
+              "id": "96700f84-ffda-4201-92da-f966a4d25658"
+            },
+            {
+              "date": "2025-12-01",
+              "shiftid": "24d77366-7ef1-40d0-9d29-e094d759b03f",
+              "shiftdata": [
+                {
+                  "shiftstarttime": null,
+                  "shiftendtime": null,
+                  "shiftname": "Third Shift",
+                  "id": "67ad836d-112d-4354-a95d-8f2a7144e3ad"
+                },
+                {
+                  "shiftstarttime": null,
+                  "shiftendtime": null,
+                  "shiftname": "First Shift",
+                  "id": "0b947677-ad5c-406c-9164-f6a372fae344"
+                },
+                {
+                  "shiftstarttime": null,
+                  "shiftendtime": null,
+                  "shiftname": "Second Shift",
+                  "id": "24d77366-7ef1-40d0-9d29-e094d759b03f"
+                }
+              ],
+              "id": "ab4d14d7-db29-457f-9638-ce77f8bb41c8"
+            },
+            {
+              "date": "2026-05-01",
+              "shiftid": "67ad836d-112d-4354-a95d-8f2a7144e3ad",
+              "shiftdata": [
+                {
+                  "shiftstarttime": null,
+                  "shiftendtime": null,
+                  "shiftname": "Third Shift",
+                  "id": "67ad836d-112d-4354-a95d-8f2a7144e3ad"
+                },
+                {
+                  "shiftstarttime": null,
+                  "shiftendtime": null,
+                  "shiftname": "First Shift",
+                  "id": "0b947677-ad5c-406c-9164-f6a372fae344"
+                },
+                {
+                  "shiftstarttime": null,
+                  "shiftendtime": null,
+                  "shiftname": "Second Shift",
+                  "id": "24d77366-7ef1-40d0-9d29-e094d759b03f"
+                }
+              ],
+              "id": "5ed92358-6eb2-4e41-8bb2-40f143deabab"
+            },
+            {
+              "date": "2026-05-01",
+              "shiftid": "24d77366-7ef1-40d0-9d29-e094d759b03f",
+              "shiftdata": [
+                {
+                  "shiftstarttime": null,
+                  "shiftendtime": null,
+                  "shiftname": "Third Shift",
+                  "id": "67ad836d-112d-4354-a95d-8f2a7144e3ad"
+                },
+                {
+                  "shiftstarttime": null,
+                  "shiftendtime": null,
+                  "shiftname": "First Shift",
+                  "id": "0b947677-ad5c-406c-9164-f6a372fae344"
+                },
+                {
+                  "shiftstarttime": null,
+                  "shiftendtime": null,
+                  "shiftname": "Second Shift",
+                  "id": "24d77366-7ef1-40d0-9d29-e094d759b03f"
+                }
+              ],
+              "id": "14f8c8fe-7db2-4ff5-8245-47932d2103db"
+            }
+          ],
+          "id": "53357207-067e-4c3f-8202-53393011e8fa",
+          "date": "2026-07-13T07:59:31.333Z",
+          "employeename": "Manoj",
+          "employeenumber": "EMP-108"
+        },
+        "tsDate": "2026-07-13T07:59:31.333Z",
+        "exception": null,
+        "key": "53357207-067e-4c3f-8202-53393011e8fa",
+        "groupBy": null
+      }
+    ],
+    "totalCount": 8
+  },
+  "wsTopicDetail": null
+}
