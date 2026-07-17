@@ -1,6 +1,6 @@
 import { ChangeDetectorRef, Component, Input, ViewChild } from '@angular/core';
 import { RosterControl } from './components/roster-control/roster-control';
-import { DsResult, ExternalCoreSimpleControl, RtOption } from 'external-den-core';
+import type { DsResult, ExternalCoreSimpleControl, RtOption } from '@reactore/external-den-core';
 
 @Component({
   selector: 'app-root',
